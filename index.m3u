@@ -24,16 +24,13 @@ https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png" group-title="",Teve2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png" group-title="",Teve2
-https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist.m3u
-
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="",TV8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8,5" tvg-name="TV8,5" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1f/TV8.5_Logosu.png" group-title="",TV8,5
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://img.netzwelt.de/dw236_dh236_sw220_sh220_sx0_sy0_sr1x1_nu0/picture/original/2020/05/tv8-int-sender-logo-275878.png" group-title="",TV8 INT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="http://www.tvizle.gallery/media/images/tvlogo/2552bcf4-7057-4026-b3f7-942241e0e051_tv8-int-tv.png" group-title="",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_hd.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" group-title="",Beyaz TV
@@ -242,38 +239,3 @@ http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TWFsSh8/dersim62.jpg" group-title="",Dersim62 TV
 http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_beIN_SPORTS_1.png/120px-Logo_beIN_SPORTS_1.png" group-title="",BEINSPORTS 1
-http://stream-e30453a4b.nmbs.top/m3u/Turkish/a891f2a8ae.m3u8
-
-#EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Logo_beIN_SPORTS_2.png/120px-Logo_beIN_SPORTS_2.png" group-title="",BEINSPORTS 2
-http://stream-e30453a4b.nmbs.top/m3u/Turkish/d355cdebc8.m3u8
-
-#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/120px-Logo_beIN_SPORTS_3.png" group-title="",BEINSPORTS 3
-http://stream-e30453a4b.nmbs.top/m3u/Turkish/6b2ffb0339.m3u8
-
-#EXTINF:-1 tvg-id="beIN Movies Turk" tvg-name="beIN Movies Turk" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png" group-title="",BEIN MOVIES
-http://stream-e30453a4b.nmbs.top/m3u/Turkish/81faf947ca.m3u8
-
-#EXTINF:-1 tvg-id="beIN Box Office 1 HD" tvg-name="beIN Box Office 1 HD" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/fe/BeIN_BOX_OFFICE_HD_1_2018_logo.png" group-title="",BEIN BOXOFFICE 1
-http://stream-e30453a4b.nmbs.top/m3u/Turkish/4155964659.m3u8
-
-#EXTINF:-1 tvg-id="beIN Box Office 2 HD" tvg-name="beIN Box Office 2 HD" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8f/BeIN_BOX_OFFICE_HD_2_2018_logo.png" group-title="",BEIN BOXOFFICE 2
-http://stream-e30453a4b.nmbs.top/m3u/Turkish/8a5fce7d48.m3u8
-
-#EXTINF:-1 tvg-id="beIN Box Office 3 HD" tvg-name="beIN Box Office 3 HD" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8f/BeIN_BOX_OFFICE_HD_3_2018_logo.png" group-title="",BEIN BOXOFFICE 3
-http://stream-e30453a4b.nmbs.top/m3u/Turkish/393b380919.m3u8
-
-#EXTINF:-1 tvg-id="beIN GURME HD" tvg-name="beIN GURME HD" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_GURME-HD.png" group-title="",BEIN GURME
-http://stream-e30453a4b.nmbs.top/m3u/Turkish/06c2a01bf5.m3u8
-
-#EXTINF:-1 tvg-id="beIN İZ" tvg-name="beIN İZ" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/BeIN_%C4%B0Z-HD.png" group-title="",beIN İZ
-http://stream-e30453a4b.nmbs.top/m3u/Turkish/583058394c.m3u8
-
-#EXTINF:-1 tvg-id="beIN Movies Premier" tvg-name="beIN Movies Premier" tvg-language="Turkish" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/271/Image/ben-movies-logos-disi-01.png" group-title="",beIN Movies Premier 
-http://stream-e30453a4b.nmbs.top/m3u/Turkish/c78dbda242.m3u8
-
-
-
-
-
