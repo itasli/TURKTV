@@ -30,9 +30,6 @@ https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8,5" tvg-name="TV8,5" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1f/TV8.5_Logosu.png" group-title="",TV8,5
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="http://www.tvizle.gallery/media/images/tvlogo/2552bcf4-7057-4026-b3f7-942241e0e051_tv8-int-tv.png" group-title="",TV8 INT
-https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_hd.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" group-title="",Beyaz TV
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist.m3u8
 
