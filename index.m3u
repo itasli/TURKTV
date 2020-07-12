@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1 HD" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="",TRT 1
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="",TRT 1
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/kcJYRGj/Fvxpir2.png" group-title="",Show TV
