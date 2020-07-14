@@ -66,9 +66,6 @@ https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="a Para" tvg-name="a Para" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZNxrDJ5/image.png" group-title="",a Para
 https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/65/A_Haber_logosu.png" group-title="",A Haber
-http://145.239.131.117:8000/samsungtizen/7N4A1fCnzN/4070
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Jq49Y1g/uHAGsRk.png" group-title="",Kanal 3
 http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
 
