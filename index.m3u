@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/zhermi/IPTVTR/master/logo.png" group-title="",
+https://raw.githubusercontent.com/zhermi/IPTVTR/master/logo.png
+
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="",TRT 1
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/playlist.m3u8
 
