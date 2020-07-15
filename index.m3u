@@ -106,7 +106,7 @@ https://tv-trtavaz.live.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.png" group-title="",Cartoon Network
-https://streams.livetv.az/turk/cartoon/playlist.m3u8
+http://94.46.195.170:9000/cartoonnetwork/live.m3u8
 
 #EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TRT_%C3%87ocuk_kurumsal_logo.png/1280px-TRT_%C3%87ocuk_kurumsal_logo.png" group-title="",TRT Çocuk
 https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/chunklist_b3128000.m3u8
@@ -146,6 +146,18 @@ https://s01.vpis.io/besiktas/besiktas.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="",tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.afyonturktv.com/wp-content/uploads/2018/10/afyoturktv.jpg" group-title="",Afyon Türk TV
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Cine5_logo.png" group-title="",Cine5 TV
+https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.tv.vin/upload/tv/b_yansinema-tv-logo_20190831002900.jpg" group-title="",YANSINEMA
+https://usb.bozztv.com/YansinemaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.png" group-title="",National Geographic Wild
+http://tv.iptvstack.net:80/qn6MiImuvL24/HzW9tv9603/5166
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/vZ2Hw9y/KuDeTzL.png" group-title="",TBMM TV
 https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
