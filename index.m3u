@@ -4,7 +4,7 @@
 https://raw.githubusercontent.com/zhermi/IPTVTR/master/logo.png
 
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="",TRT 1
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8
+https://mn-nl.mncdn.com/blutv_trt1/shttp://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8mil:trt1_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2MPMkjM/atv-logo-png-atv-logo-300.png" group-title="",A TV
 http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
@@ -12,8 +12,8 @@ http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/kcJYRGj/Fvxpir2.png" group-title="",Show TV
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-id="EuroStar" tvg-name="EuroStar" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Star_TV_ab_2011.svg/1200px-Logo_Star_TV_ab_2011.png" group-title="",EuroStar
-http://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" group-title="",Star TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/BKRJpM9/kA45FvQ.jpg" group-title="",Kanal D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
@@ -27,7 +27,7 @@ https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="",TV8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-id="TV8,5" tvg-name="TV8,5" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1f/TV8.5_Logosu.png" group-title="",TV8,5
+#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1f/TV8.5_Logosu.png" group-title="",TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png" group-title="",Teve2
@@ -37,7 +37,7 @@ https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist_b3128000.m3u8
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rp1rtsC/Mp1BWwp.png" group-title="",TLC
-http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Tvnet_Logo.jpg" group-title="",TVNET
 https://canli.ensonhaber.com/tr/tvnet/index.m3u8
