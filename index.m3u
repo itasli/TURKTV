@@ -4,10 +4,10 @@
 https://raw.githubusercontent.com/zhermi/IPTVTR/master/logo.png
 
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="",TRT 1
-https://mn-nl.mncdn.com/blutv_trt1/shttp://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8mil:trt1_hd.smil/chunklist_b3128000.m3u8
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2MPMkjM/atv-logo-png-atv-logo-300.png" group-title="",A TV
-http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Turkish/54fa35b319.m3u8
 
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/kcJYRGj/Fvxpir2.png" group-title="",Show TV
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
@@ -48,6 +48,9 @@ http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 #EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://canlitv.com/resimler/blog/360-tv-frekans-bilgileri.jpg" group-title="",360 TV
 https://canli.ensonhaber.com/tr/360tv/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" group-title="",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/TRT_Belgesel_logosu.png" group-title="",TRT Belgesel 
 https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/chunklist_b3128000.m3u8
 
@@ -65,6 +68,9 @@ https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="a Para" tvg-name="a Para" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZNxrDJ5/image.png" group-title="",a Para
 https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-id="a Haber" tvg-name="a Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZNxrDJ5/image.png" group-title="",a Haber
+http://85.132.53.55/turk/ahaber_stream_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Jq49Y1g/uHAGsRk.png" group-title="",Kanal 3
 http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
@@ -86,6 +92,12 @@ https://59cba4d34b678.streamlock.net/canlitv/kanal33mersin/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://istanbulmedya.com.tr/uploads/tv_image/kanal-34.png" group-title="",Kanal 34
 https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://seeklogo.com/images/K/kanal-38-logo-B5297F1907-seeklogo.com.png" group-title="",Kanal 38
+http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://kayisihaber.com/dosya/haber/vuslat-tv-niye-kapaniyor.jpg" group-title="",Vuslat TV
+http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TtbYRZD/i3ua14I.jpg" group-title="",ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
