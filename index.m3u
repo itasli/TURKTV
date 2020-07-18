@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/itasli/IPTVTR/master/logo.png" group-title="",github.com/itasli/IPTVTR
-https://raw.githubusercontent.com/itasli/IPTVTR/master/logo.png
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/zhermi/IPTVTR/master/logo.png" group-title="",github.com/zhermi/IPTVTR
+https://raw.githubusercontent.com/zhermi/IPTVTR/master/logo.png
 
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="",TRT 1
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8
@@ -59,6 +59,9 @@ http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="",NTV 
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_hd.smil/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="http://www.centraltv.fr/wp-content/uploads/sports-tv_logo.png" group-title="",Sports TV
+https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e9/A_Spor_logosu.png/100px-A_Spor_logosu.png" group-title="",a Spor
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
