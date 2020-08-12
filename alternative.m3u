@@ -27,7 +27,7 @@ http://tv.kuzeytv.com/hls/kanal7.m3u8
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="",TV8
 http://tv.kuzeytv.com/hls/tv8.m3u8
 
-#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png" group-title="",TV8.5
+#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/KWPyFgM/tv85-tr.png" group-title="",TV8.5
 http://tv.kuzeytv.com/hls/tv85.m3u8
 
 #EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png" group-title="",Teve2
@@ -63,7 +63,7 @@ http://tv.kuzeytv.com/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png" group-title="",TGRT Haber
 http://tv.kuzeytv.com/hls/tgrt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="",HABERGLOBAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TTWcFLS/haber-global-tr.png" group-title="",HABERGLOBAL
 http://tv.kuzeytv.com/hls/haberglobal.m3u8
 
 #EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png" group-title="",Habertürk
@@ -78,7 +78,7 @@ http://tv.kuzeytv.com/hls/24tv.m3u8
 #EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png" group-title="",CNN Türk
 http://tv.kuzeytv.com/hls/cnnturk.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png" group-title="",Halk TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://halktv.com.tr/s/i/facebook-default-share.png" group-title="",Halk TV
 http://tv.kuzeytv.com/hls/halk.m3u8
 
 #EXTINF:-1 tvg-id="Power Türk TV" tvg-name="Power Türk TV" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/power_turk_tr_tv.png" group-title="",Power Türk TV
