@@ -1,0 +1,85 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/zhermi/IPTVTR/master/logo.png" group-title="",github.com/zhermi/IPTVTR
+https://raw.githubusercontent.com/zhermi/IPTVTR/master/logo.png
+
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="",TRT 1
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png" group-title="",A TV
+http://tv.kuzeytv.com/hls/atv.m3u8
+
+#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png" group-title="",Show TV
+http://tv.kuzeytv.com/hls/show.m3u8
+
+#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="" group-title="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png",Star TV
+http://tv.kuzeytv.com/hls/star.m3u8
+
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png" group-title="",Kanal D
+http://tv.kuzeytv.com/hls/kanald.m3u8
+
+#EXTINF:-1 tvg-id="Fox TV" tvg-name="Fox TV" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="",FOX
+http://tv.kuzeytv.com/hls/fox.m3u8
+
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png" group-title="",Kanal 7
+http://tv.kuzeytv.com/hls/kanal7.m3u8
+
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="",TV8
+http://tv.kuzeytv.com/hls/tv8.m3u8
+
+#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png" group-title="",TV8.5
+http://tv.kuzeytv.com/hls/tv85.m3u8
+
+#EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png" group-title="",Teve2
+http://tv.kuzeytv.com/hls/teve2.m3u8
+
+#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png" group-title="",Beyaz TV
+http://tv.kuzeytv.com/hls/beyaztv.m3u8
+
+#EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr_2.png" group-title="",A2
+http://tv.kuzeytv.com/hls/a2.m3u8
+
+#EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_spor_tr.png" group-title="",a Spor
+http://tv.kuzeytv.com/hls/aspor.m3u8
+
+#EXTINF:-1 tvg-id="a Para" tvg-name="a Para" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a-para-tr.png" group-title="",a Para
+http://tv.kuzeytv.com/hls/apara.m3u8
+
+#EXTINF:-1 tvg-id="a Haber" tvg-name="a Haber" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_haber_tr.png" group-title="",a Haber
+http://tv.kuzeytv.com/hls/ahaber.m3u8
+
+#EXTINF:-1 tvg-id="Uçankuş TV" tvg-name="Uçankuş TV" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ucankus-tv-tr.png" group-title="",UçanKuş TV
+http://tv.kuzeytv.com/hls/ucankus.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png" group-title="",Sports TV
+http://tv.kuzeytv.com/hls/sports.m3u8
+
+#EXTINF:-1 tvg-id="Ülke TV" tvg-name="Ülke TV" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png" group-title="",Ülke TV
+http://tv.kuzeytv.com/hls/ulke.m3u8
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png" group-title="",NTV 
+http://tv.kuzeytv.com/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png" group-title="",TGRT Haber
+http://tv.kuzeytv.com/hls/tgrt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="",HABERGLOBAL
+http://tv.kuzeytv.com/hls/haberglobal.m3u8
+
+#EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png" group-title="",Habertürk
+http://tv.kuzeytv.com/hls/haberturk.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bloomberg-ht-us-tr.png" group-title="",Bloomberg HT
+http://tv.kuzeytv.com/hls/bloomberg.m3u8
+
+#EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png" group-title="",24 TV
+http://tv.kuzeytv.com/hls/24tv.m3u8
+
+#EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png" group-title="",CNN Türk
+http://tv.kuzeytv.com/hls/cnnturk.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png" group-title="",Halk TV
+http://tv.kuzeytv.com/hls/halk.m3u8
+
+#EXTINF:-1 tvg-id="Power Türk TV" tvg-name="Power Türk TV" tvg-language="Turkish" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/power_turk_tr_tv.png" group-title="",Power Türk TV
+http://tv.kuzeytv.com/hls/powerturk.m3u8
