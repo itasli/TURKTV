@@ -3,25 +3,25 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/zhermi/IPTVTR/master/logo.png" group-title="",github.com/zhermi/IPTVTR
 https://raw.githubusercontent.com/zhermi/IPTVTR/master/logo.png
 
-#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Trt1yenilogo.png" group-title="",TRT 1
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/trt1.png" group-title="",TRT 1
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2MPMkjM/atv-logo-png-atv-logo-300.png" group-title="",A TV
+#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/atv.png" group-title="",A TV
 https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/kcJYRGj/Fvxpir2.png" group-title="",Show TV
+#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/show.png" group-title="",Show TV
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" group-title="",Star TV
+#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/star.png" group-title="",Star TV
 https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/BKRJpM9/kA45FvQ.jpg" group-title="",Kanal D
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/kanald.png" group-title="",Kanal D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/NVdh9jY/fox.jpg" group-title="",FOX
+#EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/fox.png" group-title="",FOX
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/chaine-tv-avrupa-1.jpg" group-title="",Kanal 7
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/kanal7.png" group-title="",Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="",TV8
@@ -36,44 +36,44 @@ https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" group-title="",Beyaz TV
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gFWSgVC/YIv7xEi.png" group-title="",A2
+#EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/a2.png" group-title="",A2
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://canlitv.com/resimler/blog/360-tv-frekans-bilgileri.jpg" group-title="",360 TV
+#EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/360.png" group-title="",360 TV
 https://canli.ensonhaber.com/tr/360tv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rp1rtsC/Mp1BWwp.png" group-title="",TLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/tlc.png" group-title="",TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.vizyontv.eu/wp-content/uploads/2020/06/logo-1024x363.png" group-title="",Vizyon TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/vizyon.png" group-title="",Vizyon TV
 https://vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.afyonturktv.com/wp-content/uploads/2018/10/afyoturktv.jpg" group-title="",Afyon Türk TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/afyonturk.png" group-title="",Afyon Türk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Cine5_logo.png" group-title="",Cine5 TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/cine5.png" group-title="",Cine5 TV
 https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5df3cd52866ac30eac569581" group-title="",BLUTV Aksiyon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/blutvaksiyon.png" group-title="",BLUTV Aksiyon
 https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/480x480/5df3cdaf866ac30eac56958e" group-title="",BLUTV Komedi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/blutvkomedi.png" group-title="",BLUTV Komedi
 https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/2y8cng4w77xg.png" group-title="",CRI Türk Dizi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/criturk.png" group-title="",CRI Türk Dizi
 http://cri.aa.net.tr:1935/dizi/dizi/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.png" group-title="",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/cn.png" group-title="",Cartoon Network
 https://streams.livetv.az/turk/cartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TRT_%C3%87ocuk_kurumsal_logo.png/1280px-TRT_%C3%87ocuk_kurumsal_logo.png" group-title="",TRT Çocuk
+#EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/trtcocuk.png" group-title="",TRT Çocuk
 https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/Disney_Channel_2014.png" group-title="",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/dc.png" group-title="",Disney Channel
 https://streams.livetv.az/turk/disney/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MinikaGO_Logo.png/1200px-MinikaGO_Logo.png" group-title="",Minika Go
@@ -84,33 +84,33 @@ http://94.46.195.170:9000/minikacocuk/live.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i2.cnnturk.com/i/cnnturk/75/1200x0/5bd1c3a961361f009082e691.jpg" group-title="",Bein Sport Haber
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/beinsportshaber.png" group-title="",Bein Sport Haber
 http://94.46.195.170:9000/bein-sports-haber/live.m3u8
 
-#EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e9/A_Spor_logosu.png/100px-A_Spor_logosu.png" group-title="",a Spor
+#EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/aspor.png" group-title="",a Spor
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="http://www.centraltv.fr/wp-content/uploads/sports-tv_logo.png" group-title="",Sports TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/sportstv.png" group-title="",Sports TV
 https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b2064000.m3u8 
 
 
 
-#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Tvnet_Logo.jpg" group-title="",TVNET
+#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/tvnet.png" group-title="",TVNET
 https://canli.ensonhaber.com/tr/tvnet/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="",NTV 
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/ntv.png" group-title="",NTV 
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="",TRT Haber
+#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/trthaber.png" group-title="",TRT Haber
 http://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hWTdMQ6/K8Vh6HD.png" group-title="",TGRT Haber
+#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/tgrthaber.png" group-title="",TGRT Haber
 https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://haberglobal.com.tr/frontend/assets/v2/images/logo.png" group-title="",HABERGLOBAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/haberglobal.png" group-title="",HABERGLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://im.haberturk.com/assets/images/ht_logo.png" group-title="",Habertürk
+#EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/taberturk.png" group-title="",Habertürk
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.atez.com.tr/en/wp-content/uploads/sites/2/2018/10/bloomberg-logo-800.png" group-title="",Bloomberg HT
@@ -134,7 +134,7 @@ https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/vZ2Hw9y/KuDeTzL.png" group-title="",TBMM TV
 https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 
-#EXTINF:-1 tvg-id="a Haber" tvg-name="a Haber" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="",a Haber
+#EXTINF:-1 tvg-id="a Haber" tvg-name="a Haber" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/ahbr.png" group-title="",a Haber
 http://85.132.53.55/turk/ahaber_stream_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="a Para" tvg-name="a Para" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZNxrDJ5/image.png" group-title="",a Para
@@ -227,7 +227,7 @@ http://137.74.205.201/live3/mm-3mbps.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" group-title="",YABAN TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/yaban.png" group-title="",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/TRT_Belgesel_logosu.png" group-title="",TRT Belgesel 
@@ -236,5 +236,5 @@ https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png" group-title="",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/2y8cng4w77xg.png" group-title="",CRI Türk Belgesel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/criturk.png" group-title="",CRI Türk Belgesel
 http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8
