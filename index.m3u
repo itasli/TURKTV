@@ -137,7 +137,7 @@ https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1 tvg-id="a Haber" tvg-name="a Haber" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/ahbr.png" group-title="",a Haber
 http://85.132.53.55/turk/ahaber_stream_sd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="a Para" tvg-name="a Para" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZNxrDJ5/image.png" group-title="",a Para
+#EXTINF:-1 tvg-id="a Para" tvg-name="a Para" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/apara.png" group-title="",a Para
 https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.finansturktv.com/images/logo/yok.jpg" group-title="",Finans Turk TV
