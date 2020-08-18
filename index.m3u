@@ -227,7 +227,7 @@ http://137.74.205.201/live3/mm-3mbps.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/W33VKH4/yaban.png" group-title="",YABAN TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/319WZ5f/yaban.png" group-title="",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/TRT_Belgesel_logosu.png" group-title="",TRT Belgesel 
