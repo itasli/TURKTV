@@ -101,19 +101,19 @@ https://canli.ensonhaber.com/tr/tvnet/index.m3u8
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png" group-title="",NTV 
 https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Kjw2WnY/trthaber.png" group-title="",TRT Haber
+#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Mks8wFS/trthaber.jpg" group-title="",TRT Haber
 http://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gdkpsJc/tgrthaber.png" group-title="",TGRT Haber
+#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7SXmSz4/tgrthaber.png" group-title="",TGRT Haber
 https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/haberglobal.png" group-title="",HABERGLOBAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/mTTgWjy/haberglobal.png" group-title="",HABERGLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/taberturk.png" group-title="",Habertürk
+#EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Hd6cPGm/haberturk.png" group-title="",HABERTURK
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.atez.com.tr/en/wp-content/uploads/sites/2/2018/10/bloomberg-logo-800.png" group-title="",Bloomberg HT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DVRzygX/bloomberg.jpg" group-title="",Bloomberg HT
 https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2v2W5g1/24.png" group-title="",24
@@ -236,5 +236,5 @@ https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png" group-title="",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://itasli.github.io/IPTVTR/logo/criturk.png" group-title="",CRI Türk Belgesel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DRdWWY9/criturk.png" group-title="",CRI Türk Belgesel
 http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8
