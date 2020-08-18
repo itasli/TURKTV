@@ -21,19 +21,19 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png" group-title="",FOX
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Kanal_7_logosu.png" group-title="",Kanal 7
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png" group-title="",Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="",TV8
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png" group-title="",TV8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1f/TV8.5_Logosu.png" group-title="",TV8.5
+#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png" group-title="",TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png" group-title="",Teve2
 https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" group-title="",Beyaz TV
+#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png" group-title="",Beyaz TV
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png" group-title="",A2
@@ -56,10 +56,10 @@ https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HFLtSG8/cine5.png" group-title="",Cine5 TV
 https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1Mx6ymT/blutvaksiyon.png" group-title="",BLUTV Aksiyon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gS4LpZP/blutvaksiyon.png" group-title="",BLUTV Aksiyon
 https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/PtCYmdX/blutvkomedi.png" group-title="",BLUTV Komedi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zsmXjcx/blutvkomedi.png" group-title="",BLUTV Komedi
 https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DRdWWY9/criturk.png" group-title="",CRI Türk Dizi
