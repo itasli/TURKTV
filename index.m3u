@@ -192,19 +192,19 @@ https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_hd.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/nr1-tv-logo.jpg" group-title="",NR1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7NygL96/nr1.png" group-title="",NR1
 https://mn-nl.mncdn.com/blutv_nr1tv/smil:nr1tv_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://canakanten.com/wp-content/uploads/nr1-turk.jpg" group-title="",NR1 Türk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/LdhfBLC/nr1turk.png" group-title="",NR1 Türk
 https://mn-nl.mncdn.com/blutv_nr1turktv/nr1turktv_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://www.meibur.com/uploads/kanal/21627nr1damar.jpg" group-title="",NR1 Damar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HP8MdLr/nr1damar.png" group-title="",NR1 Damar
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://s1.dmcdn.net/v/MN21S1T4Z2yb8QdCe/x1080" group-title="",NR1 Aşk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fM4kZRB/nr1ask.png" group-title="",NR1 Aşk
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://s1.dmcdn.net/v/MN27O1T4Z3rDLxKLo/x1080" group-title="",NR1 Dance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/h17WPRL/nr1dance.png" group-title="",NR1 Dance
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dream TV" tvg-name="Dream TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/tpQCzb9/0MXy3W0.png" group-title="",Dream TV
