@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/zhermi/IPTVTR/master/logo.png" group-title="",github.com/zhermi/IPTVTR
-https://raw.githubusercontent.com/zhermi/IPTVTR/master/logo.png
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://itasli.github.io/IPTVTR/logo.png" group-title="",github.com/itasli/IPTVTR
+https://itasli.github.io/IPTVTR/logo.mp4
 
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/h94Qjzq/trt1.png" group-title="",TRT 1
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/playlist.m3u8
