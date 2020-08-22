@@ -1,46 +1,120 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://dizisec.org/data/movies/193/2127430766_miss_bala.jpg" group-title="",Bayan Kurşun - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://dizisec.org/data/movies/193/2127430766_miss_bala.jpg" group-title="",Bayan Kurşun
 https://srv28.filmmodu.xyz/tt5941692/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://ilberk.com/wp-content/uploads/2019/06/i-am-mother.jpg" group-title="",Ben Bir Anneyim - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://ilberk.com/wp-content/uploads/2019/06/i-am-mother.jpg" group-title="",Ben Bir Anneyim
 https://srv19.filmmodu.xyz/tt6292852/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img2.acsta.net/pictures/18/12/03/08/53/5968896.jpg" group-title="",Captain Marvel - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img2.acsta.net/pictures/18/12/03/08/53/5968896.jpg" group-title="",Captain Marvel
 https://srv53.filmmodu.xyz/tt4154664/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img4.acsta.net/medias/04/96/16/049616_af.jpg" group-title="",Denge - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img4.acsta.net/medias/04/96/16/049616_af.jpg" group-title="",Denge
 https://srv31.filmmodu.xyz/tt4463894/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://fullindirsene.net/upload-folder/2020/07/See-You-Yesterday11.jpg" group-title="",Dünü Kurtarmak - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fullindirsene.net/upload-folder/2020/07/See-You-Yesterday11.jpg" group-title="",Dünü Kurtarmak
 https://srv97.filmmodu.xyz/tt8743064/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1OTA2MjI5OV5BMl5BanBnXkFtZTgwNzkxMjU4NjM@._V1_UY1200_CR105,0,630,1200_AL_.jpg" group-title="",Glass - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1OTA2MjI5OV5BMl5BanBnXkFtZTgwNzkxMjU4NjM@._V1_UY1200_CR105,0,630,1200_AL_.jpg" group-title="",Glass
 https://srv93.filmmodu.xyz/tt6823368/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://ilberk.com/wp-content/uploads/2019/04/issiz-bir-adaya-dussen-yanina-kimi-alirdin.jpg" group-title="",Issız Bir Adaya Düşsen Yanına Kimi Alırdın ? - 2019
-https://srv17.filmmodu.xyz/tt8976832/1080p.tr.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="https://ilberk.com/wp-content/uploads/2019/04/issiz-bir-adaya-dussen-yanina-kimi-alirdin.jpg" group-title="",Issız Bir Adaya Düşsen Yanına Kimi Alırdın ?
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://sinemecra.com/wp-content/uploads/movie/g805FevFI8BkmvorvyITZ1kGJcr.jpg" group-title="",Nancy Drew ve Gizli Merdiven - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://sinemecra.com/wp-content/uploads/movie/g805FevFI8BkmvorvyITZ1kGJcr.jpg" group-title="",Nancy Drew ve Gizli Merdiven
 https://srv87.filmmodu.xyz/tt8323104/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://filmw.net/wp-content/uploads/2019/06/yV9G1nO6YxEWzXblqMUFoS19R9v.jpg" group-title="",Efsane Sürücü - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://filmw.net/wp-content/uploads/2019/06/yV9G1nO6YxEWzXblqMUFoS19R9v.jpg" group-title="",Efsane Sürücü
 https://srv17.filmmodu.xyz/tt7052494/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.pinimg.com/originals/e8/98/6c/e8986cea884cc4a2cd33545115ad73ab.jpg" group-title="",Shazam! 6 Güç - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.pinimg.com/originals/e8/98/6c/e8986cea884cc4a2cd33545115ad73ab.jpg" group-title="",Shazam! 6 Güç
 https://srv70.filmmodu.xyz/tt0448115/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyYjFmNjYtOGY5OC00YjcxLTkxOTAtNzNiNTM0YTE5Nzk4XkEyXkFqcGdeQXVyOTE1NDAyNw@@._V1_.jpg" group-title="",Ortak - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyYjFmNjYtOGY5OC00YjcxLTkxOTAtNzNiNTM0YTE5Nzk4XkEyXkFqcGdeQXVyOTE1NDAyNw@@._V1_.jpg" group-title="",Ortak
 https://srv49.filmmodu.xyz/tt9815714/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img4.acsta.net/pictures/19/04/16/09/46/5269925.jpg" group-title="",The Perfection - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img4.acsta.net/pictures/19/04/16/09/46/5269925.jpg" group-title="",The Perfection
 https://srv37.filmmodu.xyz/tt7772580/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img5.acsta.net/pictures/19/02/20/16/35/3318128.jpg" group-title="",The Highwaymen - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img5.acsta.net/pictures/19/02/20/16/35/3318128.jpg" group-title="",The Highwaymen
 https://srv96.filmmodu.xyz/tt1860242/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/f/f8/Happy_Death_Day_Poster.jpg/220px-Happy_Death_Day_Poster.jpg" group-title="",Ölüm Günün Kutlu Olsun 2 - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/f/f8/Happy_Death_Day_Poster.jpg/220px-Happy_Death_Day_Poster.jpg" group-title="",Ölüm Günün Kutlu Olsun 2
 https://srv41.filmmodu.xyz/tt8155288/1080p.tr.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img6.acsta.net/pictures/17/12/21/11/33/1495195.jpg" group-title="",Ölümcül Labirent - 2019
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img6.acsta.net/pictures/17/12/21/11/33/1495195.jpg" group-title="",Ölümcül Labirent
 https://srv84.filmmodu.xyz/tt5886046/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.vizyonfilmizle.tv/home/vizyon4/vizyonfilmizle.org/public_html/image/mortal_kombat_scorpions_revenge.jpg" group-title="",Ölümcül Dövüş Efsanesi: Akrebin İntikamı
+https://srv100.filmmodu.xyz/tt9580138/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/RU9xxonRgbCrKJiNLW9pDNQV4Do.jpg" group-title="",Geceyarısı Avı
+https://srv51.filmmodu.xyz/tt0095631/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.leslumieres-nanterre.fr/evenement/La-vie-scolaire-2019-cinepassion34-1.jpg" group-title="",Öğrenci Ofisi
+https://srv8.filmmodu.xyz/tt8783532/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img2.acsta.net/pictures/16/06/28/13/39/205309.jpg" group-title="",Sultan
+https://srv69.filmmodu.xyz/tt4832640/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.wellgousa.com/sites/default/files/2020-04/812x1200.jpg" group-title="",Samuray Marathon
+https://srv49.filmmodu.xyz/tt9311062/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmI1MGE0ODMtYWRlZC00ZDUxLWIyNGItYjgyNzhhMTRlOTI2XkEyXkFqcGdeQXVyOTQ5MTIwMjM@._V1_.jpg" group-title="",Scary Stories to Tell in the Dark
+https://srv97.filmmodu.xyz/tt3387520/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img3.acsta.net/pictures/20/01/16/07/56/2373727.jpg" group-title="",Gece Nöbeti
+https://srv33.filmmodu.xyz/tt0403358/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/SevenInHeavenPoster.jpg" group-title="",Cennette Yedi Dakika
+https://srv59.filmmodu.xyz/tt4269118/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img6.acsta.net/pictures/19/12/10/15/22/3537266.jpg" group-title="",Derin Sular
+https://srv31.filmmodu.xyz/tt5774060/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img6.acsta.net/pictures/19/12/12/17/09/3732824.jpg" group-title="",Yırtıcı Kuşlar ve Muhteşem Harley Quinn
+https://srv57.filmmodu.xyz/tt7713068/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.filmizlevip.org/wp-content/uploads/2020/03/Durdurulamaz-guc-filmizlevip.jpg" group-title="",Bloodshot: Durdurulamaz Güç
+https://srv28.filmmodu.xyz/tt1634106/10800p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img5.acsta.net/pictures/19/09/24/17/24/4667551.jpg" group-title="",El Camino A Breaking Bad Movie
+https://srv60.filmmodu.xyz/tt9243946/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710MAaieKaL._AC_SY679_.jpg" group-title="",Joker
+https://srv24.filmmodu.xyz/tt7286456/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.ecranlarge.com/uploads/image/001/091/evasion-3-the-extractors-visuel-dvd-1091010.jpg" group-title="",Kaçış Planı 3
+https://srv17.filmmodu.xyz/tt6772804/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img4.acsta.net/pictures/20/01/29/10/48/2864793.jpg" group-title="",Isi & Ossi
+https://srv76.filmmodu.xyz/tt9806322/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img6.acsta.net/pictures/19/06/14/13/39/0794831.jpg" group-title="",Anna
+https://srv18.filmmodu.xyz/tt7456310/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Zootopia_%28movie_poster%29.jpg" group-title="",Hayvanlar Şehri
+https://srv77.filmmodu.xyz/tt2948356/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51n%2B6-4hNdL._AC_SY445_.jpg" group-title="",Winx Club - Sihirli Macera
+https://srv19.filmmodu.xyz/tt1618450/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.ecranlarge.com/uploads/image/001/148/966rgyd6wkd0yhe86qcd3w8imzx-159.jpg" group-title="",Kahraman İkili
+https://srv444.filmmodu.xyz/tt1621039/10800p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://tarzifilm.com/img_tr/movie/thumb/26/13694.jpg" group-title="",Cesur ve Güzel
+https://srv54.filmmodu.xyz/tt1217209/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://img7.cdn.cinoche.com/images/9037524585f9d5fc04b1f35e35930584.jpg" group-title="",Angry Birds 2
+https://srv63.filmmodu.xyz/tt6095472/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://occ-0-64-58.1.nflxso.net/art/9cf8b/60603675383eba8a5250b19f1334765139f9cf8b.jpg" group-title="",Unutulmuş Arkadaşlıklar
+https://srv9.filmmodu.xyz/tt7869818/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://fr.web.img6.acsta.net/pictures/20/03/31/09/22/0259222.jpg" group-title="",Extraction
+https://srv52.filmmodu.xyz/tt8936646/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://files.offi.fr/evenement/73919/images/600/100c96a91437b82a617c32420ef4832a.jpg" group-title="",Greta
+https://srv74.filmmodu.xyz/tt2639336/1080p.tr.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41-KPeMNKML._AC_.jpg" group-title="",Çılgın Ikili 2
+https://srv59.filmmodu.xyz/tt0172156/1080p.tr.m3u8
