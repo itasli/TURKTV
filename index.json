@@ -1,5 +1,140 @@
 {
-  "providerName": "IPTVTR",
+  "COCUK": [
+    {
+      "thumbnail": "https://i.ibb.co/RznYK89/cn.png",
+      "title": "CARTOON NETWORK",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://streams.livetv.az/turk/cartoon/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/cQs3vjD/trtcocuk.png",
+      "title": "TRT COCUK",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/8KTN00Q/dc.png",
+      "title": "DISNEY CHANNEL",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://streams.livetv.az/turk/disney/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MinikaGO_Logo.png/1200px-MinikaGO_Logo.png",
+      "title": "MINIKA GO",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "http://94.46.195.170:9000/minikago/live.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MinikaCOCUK.png/224px-MinikaCOCUK.png",
+      "title": "MINIKA COCUK",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "http://94.46.195.170:9000/minikacocuk/live.m3u8"
+          }
+        ]
+      }
+    }
+  ],
+  "SINEMA": [
+    {
+      "thumbnail": "https://i.ibb.co/wdbZLgn/vizyon.png",
+      "title": "VIZYON TV",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/hXrJgs9/afyonturk.png",
+      "title": "AFYONTURK TV",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/HFLtSG8/cine5.png",
+      "title": "CINE5 TV",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/gS4LpZP/blutvaksiyon.png",
+      "title": "BLUTV AKSIYON",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/zsmXjcx/blutvkomedi.png",
+      "title": "BLUTV KOMEDI",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/DRdWWY9/criturk.png",
+      "title": "CRITURK DIZI",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "http://cri.aa.net.tr:1935/dizi/dizi/playlist.m3u8"
+          }
+        ]
+      }
+    }
+  ],
   "ULUSAL": [
     {
       "thumbnail": "https://i.ibb.co/h94Qjzq/trt1.png",
@@ -165,142 +300,6 @@
           {
             "videoType": "HLS",
             "url": "https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.m3u8"
-          }
-        ]
-      }
-    }
-  ],
-  "SINEMA": [
-    {
-      "thumbnail": "https://i.ibb.co/wdbZLgn/vizyon.png",
-      "title": "VIZYON TV",
-      "content": {
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8"
-          }
-        ]
-      }
-    },
-    {
-      "thumbnail": "https://i.ibb.co/hXrJgs9/afyonturk.png",
-      "title": "AFYONTURK TV",
-      "content": {
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8"
-          }
-        ]
-      }
-    },
-    {
-      "thumbnail": "https://i.ibb.co/HFLtSG8/cine5.png",
-      "title": "CINE5 TV",
-      "content": {
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8"
-          }
-        ]
-      }
-    },
-    {
-      "thumbnail": "https://i.ibb.co/gS4LpZP/blutvaksiyon.png",
-      "title": "BLUTV AKSIYON",
-      "content": {
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8"
-          }
-        ]
-      }
-    },
-    {
-      "thumbnail": "https://i.ibb.co/zsmXjcx/blutvkomedi.png",
-      "title": "BLUTV KOMEDI",
-      "content": {
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8"
-          }
-        ]
-      }
-    },
-    {
-      "thumbnail": "https://i.ibb.co/DRdWWY9/criturk.png",
-      "title": "CRITURK DIZI",
-      "content": {
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "http://cri.aa.net.tr:1935/dizi/dizi/playlist.m3u8"
-          }
-        ]
-      }
-    }
-  ],
-  "COCUK": [
-    {
-      "thumbnail": "https://i.ibb.co/RznYK89/cn.png",
-      "title": "CARTOON NETWORK",
-      "content": {
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://streams.livetv.az/turk/cartoon/playlist.m3u8"
-          }
-        ]
-      }
-    },
-    {
-      "thumbnail": "https://i.ibb.co/cQs3vjD/trtcocuk.png",
-      "title": "TRT COCUK",
-      "content": {
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/playlist.m3u8"
-          }
-        ]
-      }
-    },
-    {
-      "thumbnail": "https://i.ibb.co/8KTN00Q/dc.png",
-      "title": "DISNEY CHANNEL",
-      "content": {
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://streams.livetv.az/turk/disney/playlist.m3u8"
-          }
-        ]
-      }
-    },
-    {
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MinikaGO_Logo.png/1200px-MinikaGO_Logo.png",
-      "title": "MINIKA GO",
-      "content": {
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "http://94.46.195.170:9000/minikago/live.m3u8"
-          }
-        ]
-      }
-    },
-    {
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MinikaCOCUK.png/224px-MinikaCOCUK.png",
-      "title": "MINIKA COCUK",
-      "content": {
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "http://94.46.195.170:9000/minikacocuk/live.m3u8"
           }
         ]
       }
