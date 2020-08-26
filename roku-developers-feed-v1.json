@@ -13,7 +13,7 @@
 					"url": "https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/playlist.m3u8",
 					"quality": "HD"
 				}],
-			}
+			},
 		},
 		{
 			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
