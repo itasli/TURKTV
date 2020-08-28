@@ -9,7 +9,8 @@ To watch IPTV just paste this link <https://itasli.github.io/IPTVTR/index.m3u> t
 
 ## Roku
 
-New Roku plugin got updated and released you can download it to your device using this link : <https://my.roku.com/account/add/IPTVTR> and start streaming !
-Based essentially on [@lucaspittelkow](https://github.com/lucaspittelkow)'s work, thanks to him !
+Roku channel got updated and released you can download it to your device using this link : <https://my.roku.com/account/add/IPTVTR> and start streaming !
 
-![home screen](https://i.ibb.co/GxnzFtL/dev.jpg)
+![tv screen](https://i.ibb.co/GxnzFtL/dev.jpg)
+
+![vod screen](https://i.ibb.co/3hZRk1Z/dev.jpg)
