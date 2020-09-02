@@ -7,7 +7,7 @@ https://itasli.github.io/IPTVTR/logo.mp4
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png" group-title="",A TV
-http://stream-e30453a4b.nmbs.top/m3u/Turkish/54fa35b319.m3u8
+http://85.132.53.55/turk/atv_turk_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VCMN5Cr/show.png" group-title="",Show TV
 https://tv.kuzeytv.com/hls/show.m3u8
@@ -37,7 +37,7 @@ https://soledge13.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
 
 #EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png" group-title="",A2
-http://stream-e30453a4b.nmbs.top/m3u/Turkish/bde8a344b4.m3u8
+https://tv.kuzeytv.com/hls/a2.m3u8
 
 #EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png" group-title="",360 TV
 https://canli.ensonhaber.com/tr/360tv/index.m3u8
