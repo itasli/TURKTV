@@ -230,29 +230,65 @@
           }
         ]
       }
-    },
-    {
-      "thumbnail": "https://i.ibb.co/DRdWWY9/criturk.png",
-      "title": "CRI Türk Dizi",
-      "content": {
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "http://cri.aa.net.tr:1935/dizi/dizi/playlist.m3u8"
-          }
-        ]
-      }
     }
   ],
   "ÇOCUK  ": [
     {
-      "thumbnail": "",
-      "title": "",
+      "thumbnail": "https://i.ibb.co/RznYK89/cn.png",
+      "title": "Cartoon Network",
       "content": {
         "videos": [
           {
             "videoType": "HLS",
-            "url": ""
+            "url": "https://streams.livetv.az/turk/cartoon/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/cQs3vjD/trtcocuk.png",
+      "title": "TRT Çocuk",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/8KTN00Q/dc.png",
+      "title": "Disney Channel",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://streams.livetv.az/turk/disney/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MinikaGO_Logo.png/1200px-MinikaGO_Logo.png",
+      "title": "Minika Go",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "http://94.46.195.170:9000/minikago/live.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MinikaCOCUK.png/224px-MinikaCOCUK.png",
+      "title": "Minika Çocuk ",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "http://94.46.195.170:9000/minikacocuk/live.m3u8"
           }
         ]
       }
