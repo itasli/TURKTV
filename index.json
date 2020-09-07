@@ -1,0 +1,261 @@
+{
+  "providerName": "TURK TV",
+  "ULUSAL": [
+    {
+      "thumbnail": "https://i.ibb.co/h94Qjzq/trt1.png",
+      "title": "TRT 1",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://tv-trt1.live.trt.com.tr/master_720.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/3FVD4mV/atv.png",
+      "title": "A TV",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "http://85.132.53.55/turk/atv_turk_sd/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/VCMN5Cr/show.png",
+      "title": "Show TV",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://canli.ensonhaber.com/tr/showtv/index.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/VwWRn5D/star.png",
+      "title": "Star TV",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/TL4BtHw/kanald.png",
+      "title": "Kanal D",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://soledge13.duhnet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/pxHprXH/fox.png",
+      "title": "Fox TV",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd2.smil/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/xzqBQ5n/kanal7.png",
+      "title": "Kanal 7",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/xFm0Q0b/tv8.png",
+      "title": "TV 8",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd2.smil/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/frpQs6q/tv85.png",
+      "title": "TV 8.5",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd2.smil/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/JqMRmNQ/Teve2-logo.png",
+      "title": "Teve 2",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://soledge13.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/Msq17kK/beyaztv.png",
+      "title": "Beyaz TV",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://canli.ensonhaber.com/tr/beyaztv/index.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/Y2fyvM7/a2.png",
+      "title": "A2",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd2.smil/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/RCYWMyN/360.png",
+      "title": "360 TV",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://canli.ensonhaber.com/tr/360tv/index.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/yFLGpmC/tlc.png",
+      "title": "TLC",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8"
+          }
+        ]
+      }
+    }
+  ],
+  "SINEMA": [
+    {
+      "thumbnail": "https://i.ibb.co/wdbZLgn/vizyon.png",
+      "title": "Vizyon TV",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/hXrJgs9/afyonturk.png",
+      "title": "Afyon Türk TV",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/HFLtSG8/cine5.png",
+      "title": "Cine 5 TV",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/gS4LpZP/blutvaksiyon.png",
+      "title": "BLUTV Aksiyon",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/zsmXjcx/blutvkomedi.png",
+      "title": "BLUTV Komedi",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8"
+          }
+        ]
+      }
+    },
+    {
+      "thumbnail": "https://i.ibb.co/DRdWWY9/criturk.png",
+      "title": "CRI Türk Dizi",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "http://cri.aa.net.tr:1935/dizi/dizi/playlist.m3u8"
+          }
+        ]
+      }
+    }
+  ],
+  "ÇOCUK  ": [
+    {
+      "thumbnail": "",
+      "title": "",
+      "content": {
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": ""
+          }
+        ]
+      }
+    }
+  ]
+}
