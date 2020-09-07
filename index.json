@@ -1,6 +1,6 @@
 {
   "providerName": "TURK TV",
-  "ULUSAL": [
+  "bir": [
     {
       "thumbnail": "https://i.ibb.co/h94Qjzq/trt1.png",
       "title": "TRT 1",
@@ -36,7 +36,9 @@
           }
         ]
       }
-    },
+    }
+  ],
+  "iki": [
     {
       "thumbnail": "https://i.ibb.co/VwWRn5D/star.png",
       "title": "Star TV",
@@ -72,7 +74,9 @@
           }
         ]
       }
-    },
+    }
+  ],
+  "uc": [
     {
       "thumbnail": "https://i.ibb.co/xzqBQ5n/kanal7.png",
       "title": "Kanal 7",
@@ -108,7 +112,9 @@
           }
         ]
       }
-    },
+    }
+  ],
+  "dort": [
     {
       "thumbnail": "https://i.ibb.co/JqMRmNQ/Teve2-logo.png",
       "title": "Teve 2",
@@ -144,7 +150,9 @@
           }
         ]
       }
-    },
+    }
+  ],
+  "bes": [
     {
       "thumbnail": "https://i.ibb.co/RCYWMyN/360.png",
       "title": "360 TV",
@@ -168,9 +176,7 @@
           }
         ]
       }
-    }
-  ],
-  "SINEMA": [
+    },
     {
       "thumbnail": "https://i.ibb.co/wdbZLgn/vizyon.png",
       "title": "Vizyon TV",
@@ -182,7 +188,9 @@
           }
         ]
       }
-    },
+    }
+  ],
+  "alti": [
     {
       "thumbnail": "https://i.ibb.co/hXrJgs9/afyonturk.png",
       "title": "Afyon Türk TV",
@@ -218,7 +226,9 @@
           }
         ]
       }
-    },
+    }
+  ],
+  "yedi": [
     {
       "thumbnail": "https://i.ibb.co/zsmXjcx/blutvkomedi.png",
       "title": "BLUTV Komedi",
@@ -230,9 +240,7 @@
           }
         ]
       }
-    }
-  ],
-  "ÇOCUK  ": [
+    },
     {
       "thumbnail": "https://i.ibb.co/RznYK89/cn.png",
       "title": "Cartoon Network",
@@ -256,7 +264,9 @@
           }
         ]
       }
-    },
+    }
+  ],
+  "sekiz": [
     {
       "thumbnail": "https://i.ibb.co/8KTN00Q/dc.png",
       "title": "Disney Channel",
