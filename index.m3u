@@ -77,7 +77,7 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 https://streams.livetv.az/turk/disney/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MinikaGO_Logo.png/1200px-MinikaGO_Logo.png" group-title="",Minika Go
-http://94.46.195.170:9000/minikago/live.m3u8
+http://streams2.livetv.az/turk/minika_go/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MinikaCOCUK.png/224px-MinikaCOCUK.png" group-title="",Minika Çocuk
 http://94.46.195.170:9000/minikacocuk/live.m3u8
@@ -113,8 +113,11 @@ https://canli.ensonhaber.com/tr/haberglobal/index.m3u8
 #EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Hd6cPGm/haberturk.png" group-title="",HABERTURK
 https://canli.ensonhaber.com/tr/haberturk/index.m3u8
 
+#EXTINF:-1 tvg-id="BENGUTURK" tvg-name="BENGUTURK" tvg-language="Turkish" tvg-logo="https://img.gazetevatan.com/vatanmediafile/Haber598x362/2016/03/01/benguturk-tv-de-turksat-tarafindan-karartildi-2026678.Jpeg" group-title="",BENGUTURK
+https://canli.ensonhaber.com/tr/benguturk/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DVRzygX/bloomberg.jpg" group-title="",Bloomberg HT
-https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd2.smil/playlist.m3u8
+https://canli.ensonhaber.com/tr/bloomberght/index.m3u8
 
 #EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2v2W5g1/24.png" group-title="",24
 https://canli.ensonhaber.com/tr/24tv/index.m3u8
