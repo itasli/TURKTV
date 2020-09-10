@@ -123,7 +123,7 @@ https://canli.ensonhaber.com/tr/bloomberght/index.m3u8
 https://canli.ensonhaber.com/tr/24tv/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5W0L35x/cnnturk.png" group-title="",CNN Türk
-https://tv.kuzeytv.com/hls/cnnturk.m3u8
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="Ülke TV" tvg-name="Ülke TV" tvg-language="Turkish" tvg-logo="https://cdn.kanal7.com/ulketv/wp-content/uploads/2015/12/29112014172109.jpg" group-title="",Ülke TV
 https://tv.kuzeytv.com/hls/ulke.m3u8
