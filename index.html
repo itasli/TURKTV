@@ -1,29 +1,64 @@
 <!doctype html>
 <html lang="fr">
-	
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="google-site-verification" content="JTHl_fn7i1Mjk_ml236VqTkY2jPkIIhqGngA1najU4Q" />
-		<title>IPTVTR</title>
-		<p style="text-align:center;margin-left:auto;margin-right:auto;">
-			<img src="logo.png" style="width:600px;height:300px;" >
-		</p>			
-	</head>
-		
-<body style="margin:0;background:#f5f5f5;">
-	<div style="text-align:center;margin-left:auto;margin-right:auto;">
-		<input type="button" value="MAIN PLAYLIST" onclick="window.open('index.m3u')" style="padding:30px 0 30px 0;font:bold 12px Arial;background:#C00319;color:white;border-radius:15px;width:200px;border:none;">
-	</div>
-		
-	<div style="text-align:center;margin-left:auto;margin-right:auto;margin-top:10px;">
-		<input type="button" value="VOD PLAYLIST" onclick="window.open('vod.m3u')" style="padding:30px 0 30px 0;font:bold 12px Arial;background:#C00319;color:white;border-radius:15px;width:200px;border:none;">
-	</div>
 
-	<div style="text-align:center;margin-left:auto;margin-right:auto;margin-top:10px;">
-		<input type="button" value="ALTERNATIVE PLAYLIST" onclick="window.open('alternative.m3u')" style="padding:30px 0 30px 0;font:bold 12px Arial;background:#C00319;color:white;border-radius:15px;width:200px;border:none;">
-	</div>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="JTHl_fn7i1Mjk_ml236VqTkY2jPkIIhqGngA1najU4Q" />
+    <title>IPTVTR</title>
 
+    <style>
+        html,
+        body {
+            margin: 0!important;
+            padding: 0!important;
+            background: #f5f5f5;
+        }
+        
+        .centered {
+            display: flex;
+            justify-content: center;
+        }
+        
+        .centered .button {
+            height: 60px;
+            font: bold 12px Arial;
+            background-color: #C00319;
+            color: white;
+            border-radius: 15px;
+            width: 200px;
+            border: none;
+            text-align: center;
+            margin: 8px;
+        }
+        
+        .buttons {
+            flex-direction: column;
+            margin: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="centered">
+        <img src="logo.png" height="300" width="600">
+    </div>
+
+    <div class="centered">
+        <div class="centered buttons">
+            <button class="button" onclick="window.open('index.m3u')">
+                MAIN PLAYLIST
+            </button>
+
+            <button class="button" onclick="window.open('vod.m3u')">
+                VOD PLAYLIST
+            </button>
+
+            <button class="button" onclick="window.open('alternative.m3u')">
+                ALTERNATIVE PLAYLIST
+            </button>
+        </div>
+    </div>
 </body>
-	
+
 </html>
