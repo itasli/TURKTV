@@ -46,17 +46,23 @@
 
     <div class="centered">
         <div class="centered buttons">
-            <button class="button" onclick="window.open('index.m3u')">
-                MAIN PLAYLIST
-            </button>
+            <form method="get" action="index.m3u">
+                <button class="button">
+                    MAIN PLAYLIST
+                </button>
+            </form>
 
-            <button class="button" onclick="window.open('vod.m3u')">
-                VOD PLAYLIST
-            </button>
-
-            <button class="button" onclick="window.open('alternative.m3u')">
-                ALTERNATIVE PLAYLIST
-            </button>
+            <form method="get" action="vod.m3u">
+                <button class="button">
+                    VOD PLAYLIST
+                </button>
+            </form>
+                
+            <form method="get" action="alternative.m3u">
+                <button class="button">
+                    ALTERNATIVE PLAYLIST
+                </button>
+            </form>
         </div>
     </div>
 </body>
