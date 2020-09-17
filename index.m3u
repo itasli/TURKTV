@@ -10,7 +10,10 @@ https://itasli.tk/iptvtr/trt1.m3u8
 https://itasli.tk/iptvtr/atv.m3u8
 
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VCMN5Cr/show.png" group-title="",Show TV
-https://canli.ensonhaber.com/tr/showtv/index.m3u8
+https://itasli.tk/iptvtr/show.m3u8
+
+#EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9b/ShowMax_logosu.png" group-title="",Show Max
+https://itasli.tk/iptvtr/showmax.m3u8
 
 #EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png" group-title="",Star TV
 https://itasli.tk/iptvtr/star.m3u8
