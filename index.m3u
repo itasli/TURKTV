@@ -10,7 +10,7 @@ https://itasli.tk/iptvtr/trt1.m3u8
 https://itasli.tk/iptvtr/atv.m3u8
 
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VCMN5Cr/show.png" group-title="",Show TV
-https://itasli.tk/iptvtr/show.m3u8
+https://canli.ensonhaber.com/tr/showtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png" group-title="",Star TV
 https://itasli.tk/iptvtr/star.m3u8
@@ -34,13 +34,13 @@ https://itasli.tk/iptvtr/tv85.m3u8
 https://itasli.tk/iptvtr/teve2.m3u8
 
 #EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png" group-title="",Beyaz TV
-https://itasli.tk/iptvtr/beyaz.m3u8
+https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
 
 #EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png" group-title="",A2
 https://itasli.tk/iptvtr/a2.m3u8
 
 #EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png" group-title="",360 TV
-https://itasli.tk/iptvtr/360.m3u8
+https://canli.ensonhaber.com/tr/360tv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png" group-title="",TLC
 https://itasli.tk/iptvtr/tlc.m3u8
@@ -51,11 +51,10 @@ https://itasli.tk/iptvtr/tlc.m3u8
 https://itasli.tk/iptvtr/vizyon.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hXrJgs9/afyonturk.png" group-title="",Afyon Türk TV
-https://itasli.tk/iptvtr/afyonturk.m3u8
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HFLtSG8/cine5.png" group-title="",Cine5 TV
 https://itasli.tk/iptvtr/cine5.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gS4LpZP/blutvaksiyon.png" group-title="",BLUTV Aksiyon
 https://itasli.tk/iptvtr/blutvaksiyon.m3u8
@@ -97,7 +96,7 @@ https://itasli.tk/iptvtr/sports.m3u8
 
 
 #EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg" group-title="",TVNET
-https://itasli.tk/iptvtr/tvnet.m3u8
+https://canli.ensonhaber.com/tr/tvnet/index.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png" group-title="",NTV 
 https://itasli.tk/iptvtr/ntv.m3u8
@@ -109,19 +108,19 @@ https://itasli.tk/iptvtr/trthaber.m3u8
 https://itasli.tk/iptvtr/tgrthaber.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/mTTgWjy/haberglobal.png" group-title="",HABERGLOBAL
-https://itasli.tk/iptvtr/haberglobal.m3u8
+https://canli.ensonhaber.com/tr/haberglobal/index.m3u8
 
 #EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Hd6cPGm/haberturk.png" group-title="",HABERTURK
-https://itasli.tk/iptvtr/haberturk.m3u8
+https://canli.ensonhaber.com/tr/haberturk/index.m3u8
 
 #EXTINF:-1 tvg-id="BENGUTURK" tvg-name="BENGUTURK" tvg-language="Turkish" tvg-logo="https://img.gazetevatan.com/vatanmediafile/Haber598x362/2016/03/01/benguturk-tv-de-turksat-tarafindan-karartildi-2026678.Jpeg" group-title="",BENGUTURK
-https://itasli.tk/iptvtr/benguturk.m3u8
+https://canli.ensonhaber.com/tr/benguturk/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DVRzygX/bloomberg.jpg" group-title="",Bloomberg HT
-https://itasli.tk/iptvtr/bloomberght.m3u8
+https://canli.ensonhaber.com/tr/bloomberght/index.m3u8
 
 #EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2v2W5g1/24.png" group-title="",24
-https://itasli.tk/iptvtr/24.m3u8
+https://canli.ensonhaber.com/tr/24tv/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5W0L35x/cnnturk.png" group-title="",CNN Türk
 https://itasli.tk/iptvtr/cnnturk.m3u8
@@ -130,7 +129,7 @@ https://itasli.tk/iptvtr/cnnturk.m3u8
 https://itasli.tk/iptvtr/ulke.m3u8
 
 #EXTINF:-1 tvg-id="Kon TV" tvg-name="Kontv" tvg-language="Turkish" tvg-logo="https://i.ibb.co/KjVF97d/D8uqiZD.jpg" group-title="",Kon TV
-https://itasli.tk/iptvtr/kon.m3u8
+https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HalkTVLogo.jpg" group-title="",Halk TV
 https://itasli.tk/iptvtr/halk.m3u8
@@ -150,10 +149,10 @@ https://itasli.tk/iptvtr/finansturk.m3u8
 
 
 #EXTINF:-1 tvg-id="Uçankuş TV" tvg-name="Uçankuş TV" tvg-language="Turkish" tvg-logo="https://cdn.ucankus.com/images/ucankus-logo-640.jpg" group-title="",UçanKuş TV
-https://itasli.tk/iptvtr/ucankus.m3u8
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="",tivi TÜRK
-https://itasli.tk/iptvtr/tiviturk.m3u8
+https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QXDPwFR/ceYfPXJ.jpg" group-title="",TV 4
 https://itasli.tk/iptvtr/tv4.m3u8
@@ -165,13 +164,13 @@ https://itasli.tk/iptvtr/kanalb.m3u8
 https://itasli.tk/iptvtr/er.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZN6J48r/90235924-1103483683323522-6513342127999549440-n.jpg" group-title="",Kanal 19
-https://itasli.tk/iptvtr/kanal19.m3u8
+https://5be5d840359c6.streamlock.net/kanal19tv/kanal19tv/chunklist_w1996380179.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://pbs.twimg.com/profile_images/420458231337476096/8Ps5-HMt.jpeg" group-title="",Kanal 33
 https://itasli.tk/iptvtr/kanal33.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://istanbulmedya.com.tr/uploads/tv_image/kanal-34.png" group-title="",Kanal 34
-https://itasli.tk/iptvtr/kanal34.m3u8
+https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/chunklist_w1787984482.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://seeklogo.com/images/K/kanal-38-logo-B5297F1907-seeklogo.com.png" group-title="",Kanal 38
 https://itasli.tk/iptvtr/kanal38.m3u8
