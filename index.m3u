@@ -48,22 +48,23 @@ https://itasli.tk/iptvtr/tlc.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png" group-title="",Vizyon TV
-https://vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8
+https://itasli.tk/iptvtr/vizyon.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hXrJgs9/afyonturk.png" group-title="",Afyon Türk TV
-https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+https://itasli.tk/iptvtr/afyonturk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HFLtSG8/cine5.png" group-title="",Cine5 TV
-https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
+https://itasli.tk/iptvtr/cine5.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gS4LpZP/blutvaksiyon.png" group-title="",BLUTV Aksiyon
-https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+https://itasli.tk/iptvtr/blutvaksiyon.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zsmXjcx/blutvkomedi.png" group-title="",BLUTV Komedi
-https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+https://itasli.tk/iptvtr/blutvkomedi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DRdWWY9/criturk.png" group-title="",CRI Türk Dizi
-http://cri.aa.net.tr:1935/dizi/dizi/playlist.m3u8
+https://itasli.tk/iptvtr/criturkdizi.m3u8
 
 
 
