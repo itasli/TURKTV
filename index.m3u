@@ -54,7 +54,7 @@ https://itasli.tk/iptvtr/tlc.m3u8
 https://itasli.tk/iptvtr/vizyon.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hXrJgs9/afyonturk.png" group-title="",Afyon Türk TV
-https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+https://itasli.tk/iptvtr/afyonturk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HFLtSG8/cine5.png" group-title="",Cine5 TV
 https://itasli.tk/iptvtr/cine5.m3u8
@@ -155,7 +155,7 @@ https://itasli.tk/iptvtr/finansturk.m3u8
 https://itasli.tk/iptvtr/ucankus.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="",tivi TÜRK
-https://stream.tiviturk.de/live/tiviturk.m3u8
+https://itasli.tk/iptvtr/tiviturk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QXDPwFR/ceYfPXJ.jpg" group-title="",TV 4
 https://itasli.tk/iptvtr/tv4.m3u8
@@ -163,11 +163,11 @@ https://itasli.tk/iptvtr/tv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="http://www.ertv.com.tr/images/banner/ertv-logo_1.png" group-title="",Er TV
 https://itasli.tk/iptvtr/er.m3u8
 
-#EXTINF:-1 tvg-id="Kanal B" tvg-name="Kanal B" tvg-language="Turkish" tvg-logo="http://www.kanalb.com.tr/images/kanalb_logo.png" group-title="",Kanal B
-https://itasli.tk/iptvtr/kanalb.m3u8
-
 #EXTINF:-1 tvg-id="Kanal A" tvg-name="Kanal A" tvg-language="Turkish" tvg-logo="http://www.kanalb.com.tr/images/kanalb_logo.png" group-title="",Kanal A
 https://itasli.tk/iptvtr/kanala.m3u8
+
+#EXTINF:-1 tvg-id="Kanal B" tvg-name="Kanal B" tvg-language="Turkish" tvg-logo="http://www.kanalb.com.tr/images/kanalb_logo.png" group-title="",Kanal B
+https://itasli.tk/iptvtr/kanalb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="http://kanal3.com.tr/wp-content/uploads/2018/10/KANAL3-LOGO_1280x720-2.png" group-title="",Kanal 3
 https://itasli.tk/iptvtr/kanal3.m3u8
@@ -176,13 +176,13 @@ https://itasli.tk/iptvtr/kanal3.m3u8
 https://itasli.tk/iptvtr/kanal15.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZN6J48r/90235924-1103483683323522-6513342127999549440-n.jpg" group-title="",Kanal 19
-https://5be5d840359c6.streamlock.net/kanal19tv/kanal19tv/chunklist_w1996380179.m3u8
+https://itasli.tk/iptvtr/kanal19.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://pbs.twimg.com/profile_images/420458231337476096/8Ps5-HMt.jpeg" group-title="",Kanal 33
 https://itasli.tk/iptvtr/kanal33.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://istanbulmedya.com.tr/uploads/tv_image/kanal-34.png" group-title="",Kanal 34
-https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/chunklist_w1787984482.m3u8
+https://itasli.tk/iptvtr/kanal34.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://seeklogo.com/images/K/kanal-38-logo-B5297F1907-seeklogo.com.png" group-title="",Kanal 38
 https://itasli.tk/iptvtr/kanal38.m3u8
