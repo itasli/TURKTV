@@ -59,6 +59,12 @@ https://itasli.tk/iptvtr/afyonturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HFLtSG8/cine5.png" group-title="",Cine5 TV
 https://itasli.tk/iptvtr/cine5.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ggtxHqs/denizpostasi.png" group-title="",Deniz Postası
+https://itasli.tk/iptvtr/denizpostasi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/MnjS0jf/royaltv.jpg" group-title="",Royal TV
+https://itasli.tk/iptvtr/royal.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gS4LpZP/blutvaksiyon.png" group-title="",BLUTV Aksiyon
 https://itasli.tk/iptvtr/blutvaksiyon.m3u8
 
