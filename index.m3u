@@ -105,6 +105,9 @@ https://itasli.tk/iptvtr/aspor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png" group-title="",Sports TV
 https://itasli.tk/iptvtr/sports.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/g6J1shF/ntvspor-logo.png" group-title="",NTV Spor
+https://itasli.tk/iptvtr/ntvspor.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg" group-title="",TVNET
