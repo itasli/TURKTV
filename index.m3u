@@ -204,6 +204,9 @@ https://itasli.tk/iptvtr/dream.m3u8
 #EXTINF:-1 tvg-id="Dream Türk" tvg-name="Dream Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zJHYHJV/21739dream.png" group-title="",Dream Türk
 https://itasli.tk/iptvtr/dreamturk.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4gGczhz/logo-44.png" group-title="",Power TV
+https://itasli.tk/iptvtr/power.m3u8
+
 #EXTINF:-1 tvg-id="Power Türk TV" tvg-name="Power Türk TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/v1vtvJt/N3keKip.png" group-title="",Power Türk TV
 https://itasli.tk/iptvtr/powerturk.m3u8
 
