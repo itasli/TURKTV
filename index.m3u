@@ -46,7 +46,7 @@ https://itasli.tk/iptvtr/showmax.m3u8
 https://itasli.tk/iptvtr/kanalddrama.m3u8
 
 #EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png" group-title="",360 TV
-https://itasli.tk/iptvtr/360.m3u8
+https://itasli.tk/iptvtr/tv360.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png" group-title="",TLC
 https://itasli.tk/iptvtr/tlc.m3u8
@@ -135,7 +135,7 @@ https://itasli.tk/iptvtr/benguturk.m3u8
 https://itasli.tk/iptvtr/bloomberght.m3u8
 
 #EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2v2W5g1/24.png" group-title="",24
-https://itasli.tk/iptvtr/24.m3u8
+https://itasli.tk/iptvtr/tv24.m3u8
 
 #EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5W0L35x/cnnturk.png" group-title="",CNN Türk
 https://itasli.tk/iptvtr/cnnturk.m3u8
