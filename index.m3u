@@ -48,12 +48,6 @@ https://itasli.tk/iptvtr/kanalddrama.m3u8
 #EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png" group-title="Ulusal",360 TV
 https://itasli.tk/iptvtr/tv360.m3u8
 
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png" group-title="Ulusal",TLC
-https://itasli.tk/iptvtr/tlc.m3u8
-
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png" group-title="Ulusal",DMAX
-https://itasli.tk/iptvtr/dmax.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png" group-title="Sinema",Vizyon TV
@@ -166,6 +160,33 @@ https://itasli.tk/iptvtr/finansturk.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7JxJhPg/aksutv.png" group-title="Yerel",Aksu TV
+https://itasli.tk/iptvtr/aksu.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/GppJVkb/astv.png" group-title="Yerel",As TV
+https://itasli.tk/iptvtr/as.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/PWhNQjS/bitlistv.png" group-title="Yerel",Bitlis TV
+https://itasli.tk/iptvtr/bitlis.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/g9t8MK6/bltturk.png" group-title="Yerel",BLT Türk
+https://itasli.tk/iptvtr/bltturk.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5cjMtBx/brtv.png" group-title="Yerel",BRTV
+https://itasli.tk/iptvtr/br.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xMBLy0j/dehatv.png" group-title="Yerel",Deha TV
+https://itasli.tk/iptvtr/deha.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gSFfSTF/egetv.png" group-title="Yerel",EGETV
+https://itasli.tk/iptvtr/ege.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xLFh1hV/ertv.png" group-title="Yerel",ER TV
+https://itasli.tk/iptvtr/er.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nkM7yTb/ntr.png" group-title="Yerel",NTR TV
+https://itasli.tk/iptvtr/ntr.m3u8
+
 #EXTINF:-1 tvg-id="Uçankuş TV" tvg-name="Uçankuş TV" tvg-language="Turkish" tvg-logo="https://cdn.ucankus.com/images/ucankus-logo-640.jpg" group-title="",UçanKuş TV
 https://itasli.tk/iptvtr/ucankus.m3u8
 
@@ -235,6 +256,12 @@ https://itasli.tk/iptvtr/finest.m3u8
 https://itasli.tk/iptvtr/slowkaradeniz.m3u8
 
 
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png" group-title="Belgesel",TLC
+https://itasli.tk/iptvtr/tlc.m3u8
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png" group-title="Belgesel",DMAX
+https://itasli.tk/iptvtr/dmax.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/319WZ5f/yaban.png" group-title="Belgesel",YABAN TV
 https://itasli.tk/iptvtr/yaban.m3u8
