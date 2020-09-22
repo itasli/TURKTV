@@ -190,7 +190,7 @@ https://itasli.tk/iptvtr/er.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FVNVbkw/frttv.png" group-title="Yerel",FRT TV
 https://itasli.tk/iptvtr/frt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="hhttps://i.ibb.co/PmmR4JC/olaytv.png" group-title="Yerel",Gaziantep Olay
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/PmmR4JC/olaytv.png" group-title="Yerel",Gaziantep Olay
 https://itasli.tk/iptvtr/olay.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sj0fCwz/grt.png" group-title="Yerel",GRT
@@ -306,7 +306,7 @@ https://itasli.tk/iptvtr/finest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1T4cZd2/slowkaradeniz.png" group-title="Müzik",Slow Karadeniz
 https://itasli.tk/iptvtr/slowkaradeniz.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VW7qhfv/damar-tv.png" group-title="Müzik",DAMAR TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bL1pxQJ/damar.png" group-title="Müzik",DAMAR TV
 https://itasli.tk/iptvtr/damar.m3u8
 
 
