@@ -51,6 +51,9 @@ https://itasli.tk/iptvtr/tv360.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png" group-title="Ulusal",TLC
 https://itasli.tk/iptvtr/tlc.m3u8
 
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png" group-title="Ulusal",DMAX
+https://itasli.tk/iptvtr/dmax.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png" group-title="Sinema",Vizyon TV
