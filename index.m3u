@@ -27,14 +27,17 @@ https://itasli.tk/iptvtr/kanal7.m3u8
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png" group-title="Ulusal",TV8
 https://itasli.tk/iptvtr/tv8.m3u8
 
-#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png" group-title="Ulusal",TV8.5
-https://itasli.tk/iptvtr/tv85.m3u8
-
 #EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png" group-title="Ulusal",Teve2
 https://itasli.tk/iptvtr/teve2.m3u8
 
 #EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png" group-title="Ulusal",Beyaz TV
 https://itasli.tk/iptvtr/beyaz.m3u8
+
+#EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png" group-title="Ulusal",360 TV
+https://itasli.tk/iptvtr/tv360.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/NnKKpDh/logo.jpg" group-title="Ulusal",TRT 4K
+https://itasli.tk/iptvtr/trt4k.m3u8
 
 #EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png" group-title="Ulusal",A2
 https://itasli.tk/iptvtr/a2.m3u8
@@ -45,8 +48,8 @@ https://itasli.tk/iptvtr/showmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9VzXprW/Kanal-D-Drama.png" group-title="Ulusal",Kanal D Drama
 https://itasli.tk/iptvtr/kanalddrama.m3u8
 
-#EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png" group-title="Ulusal",360 TV
-https://itasli.tk/iptvtr/tv360.m3u8
+#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png" group-title="Ulusal",TV8.5
+https://itasli.tk/iptvtr/tv85.m3u8
 
 
 
