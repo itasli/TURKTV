@@ -184,6 +184,54 @@ https://itasli.tk/iptvtr/ege.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xLFh1hV/ertv.png" group-title="Yerel",ER TV
 https://itasli.tk/iptvtr/er.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FVNVbkw/frttv.png" group-title="Yerel",FRT TV
+https://itasli.tk/iptvtr/frt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="hhttps://i.ibb.co/PmmR4JC/olaytv.png" group-title="Yerel",Gaziantep Olay
+https://itasli.tk/iptvtr/olay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sj0fCwz/grt.png" group-title="Yerel",GRT
+https://itasli.tk/iptvtr/grt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/d4BYKHy/hunattv.png" group-title="Yerel",Hunat TV
+https://itasli.tk/iptvtr/hunat.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nc1Zt9L/ilketv.png" group-title="Yerel",Ilke TV
+https://itasli.tk/iptvtr/ilke.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/jWw2PZz/kanal3.png" group-title="Yerel",Kanal 3
+https://itasli.tk/iptvtr/kanal3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c3QSwPJ/kanal12.png" group-title="Yerel",Kanal 12
+https://itasli.tk/iptvtr/kanal12.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/jhZxMBg/kanal15.png" group-title="Yerel",Kanal 15
+https://itasli.tk/iptvtr/kanal15.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wyGtN54/kanal19.jpg" group-title="Yerel",Kanal 19
+https://itasli.tk/iptvtr/kanal19.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/84h18Z1/kanal23.png" group-title="Yerel",Kanal 23
+https://itasli.tk/iptvtr/kanal23.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Wf9qjcM/kanal26.png" group-title="Yerel",Kanal 26
+https://itasli.tk/iptvtr/kanal26.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Ltyrhsm/kanal33.png" group-title="Yerel",Kanal 33
+https://itasli.tk/iptvtr/kanal33.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nRHCMMk/kanal-34.png" group-title="Yerel",Kanal 34
+https://itasli.tk/iptvtr/kanal34.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RjCcNKL/kanal68.png" group-title="Yerel",Kanal 68
+https://itasli.tk/iptvtr/kanal68.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bLzC8Sh/kanalfirat.png" group-title="Yerel",Kanal Firat
+https://itasli.tk/iptvtr/kanalfirat.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nkM7yTb/ntr.png" group-title="Yerel",NTR TV
 https://itasli.tk/iptvtr/ntr.m3u8
 
