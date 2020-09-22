@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://itasli.github.io/IPTVTR/logo.png" group-title="",YEREL
 https://itasli.github.io/IPTVTR/logo.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="http://www.ertv.com.tr/images/banner/ertv-logo_1.png" group-title="",Er TV
-http://yerelmedya.tv:1935/ertv/_definst_/bant1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Kanal A" tvg-name="Kanal A" tvg-language="Turkish" tvg-logo="https://e7.pngegg.com/pngimages/316/502/png-clipart-kanal-a-turkey-canal-television-logo-tvs-logo-television-blue.png" group-title="",Kanal A
 http://stream2.taksimbilisim.com:1935/kanala/bant1/playlist.m3u8
 
