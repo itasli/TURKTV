@@ -178,6 +178,9 @@ https://itasli.tk/iptvtr/bltturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5cjMtBx/brtv.png" group-title="Yerel",BRTV
 https://itasli.tk/iptvtr/br.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/WkVL8Y5/brt1.png" group-title="Yerel",BRT 1
+https://itasli.tk/iptvtr/brt1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xMBLy0j/dehatv.png" group-title="Yerel",Deha TV
 https://itasli.tk/iptvtr/deha.m3u8
 
@@ -334,3 +337,6 @@ https://itasli.tk/iptvtr/avtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/B3XDDct/ciftci.png" group-title="Belgesel",Çiftci TV
 https://itasli.tk/iptvtr/ciftci.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/StSSdVk/makinetv.png" group-title="Belgesel",Makine TV
+https://itasli.tk/iptvtr/makine.m3u8
