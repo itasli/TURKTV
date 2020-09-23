@@ -102,6 +102,10 @@ https://itasli.tk/iptvtr/beinsportshaber.m3u8
 #EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SJ3BGgP/aspor.png" group-title="Spor",a Spor
 https://itasli.tk/iptvtr/aspor.m3u8
 
+
+#EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png" group-title="Spor",TRT Spor
+https://itasli.tk/iptvtr/trtspor.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png" group-title="Spor",Sports TV
 https://itasli.tk/iptvtr/sports.m3u8
 
@@ -318,6 +322,8 @@ https://itasli.tk/iptvtr/slowkaradeniz.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bL1pxQJ/damar.png" group-title="Müzik",DAMAR TV
 https://itasli.tk/iptvtr/damar.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/kJvnRmJ/kissmuzik.png" group-title="Müzik",Kiss Müzik
+https://itasli.tk/iptvtr/kissmuzik.m3u8
 
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png" group-title="Belgesel",TLC
