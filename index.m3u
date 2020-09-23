@@ -65,6 +65,9 @@ https://itasli.tk/iptvtr/denizpostasi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/MnjS0jf/royaltv.jpg" group-title="Sinema",Royal TV
 https://itasli.tk/iptvtr/royal.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5sK8RtZ/saban.png" group-title="Sinema",Saban TV
+https://itasli.tk/iptvtr/saban.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gS4LpZP/blutvaksiyon.png" group-title="Sinema",BLUTV Aksiyon
 https://itasli.tk/iptvtr/blutvaksiyon.m3u8
 
