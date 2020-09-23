@@ -149,6 +149,9 @@ https://itasli.tk/iptvtr/kon.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HalkTVLogo.jpg" group-title="Haber",Halk TV
 https://itasli.tk/iptvtr/halk.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Yq2m25/tele1.png" group-title="Haber",Tele 1
+https://itasli.tk/iptvtr/tele1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/vZ2Hw9y/KuDeTzL.png" group-title="Haber",TBMM TV
 https://itasli.tk/iptvtr/tbmm.m3u8
 
