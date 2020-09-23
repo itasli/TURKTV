@@ -102,14 +102,13 @@ https://itasli.tk/iptvtr/beinsportshaber.m3u8
 #EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SJ3BGgP/aspor.png" group-title="Spor",a Spor
 https://itasli.tk/iptvtr/aspor.m3u8
 
-
-#EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png" group-title="Spor",TRT Spor
+#EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png" group-title="Spor",TRT Spor
 https://itasli.tk/iptvtr/trtspor.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png" group-title="Spor",Sports TV
+#EXTINF:-1 tvg-id="Sports TV" tvg-name="Sports TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png" group-title="Spor",Sports TV
 https://itasli.tk/iptvtr/sports.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/g6J1shF/ntvspor-logo.png" group-title="Spor",NTV Spor
+#EXTINF:-1 tvg-id="NTV Spor" tvg-name="NTV Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/g6J1shF/ntvspor-logo.png" group-title="Spor",NTV Spor
 https://itasli.tk/iptvtr/ntvspor.m3u8
 
 
@@ -147,16 +146,16 @@ https://itasli.tk/iptvtr/cnnturk.m3u8
 #EXTINF:-1 tvg-id="Ülke TV" tvg-name="Ülke TV" tvg-language="Turkish" tvg-logo="https://cdn.kanal7.com/ulketv/wp-content/uploads/2015/12/29112014172109.jpg" group-title="Haber",Ülke TV
 https://itasli.tk/iptvtr/ulke.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/kxRndv8/logo.png" group-title="Haber",Akit TV
+#EXTINF:-1 tvg-id="Akit TV" tvg-name=""Akit TV tvg-language="Turkish" tvg-logo="https://i.ibb.co/kxRndv8/logo.png" group-title="Haber",Akit TV
 https://itasli.tk/iptvtr/akit.m3u8
 
-#EXTINF:-1 tvg-id="Kon TV" tvg-name="Kontv" tvg-language="Turkish" tvg-logo="https://i.ibb.co/KjVF97d/D8uqiZD.jpg" group-title="Haber",Kon TV
+#EXTINF:-1 tvg-id="Kontv" tvg-name="Kontv" tvg-language="Turkish" tvg-logo="https://i.ibb.co/KjVF97d/D8uqiZD.jpg" group-title="Haber",Kon TV
 https://itasli.tk/iptvtr/kon.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HalkTVLogo.jpg" group-title="Haber",Halk TV
 https://itasli.tk/iptvtr/halk.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Yq2m25/tele1.png" group-title="Haber",Tele 1
+#EXTINF:-1 tvg-id="Tele 1" tvg-name="Tele 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Yq2m25/tele1.png" group-title="Haber",Tele 1
 https://itasli.tk/iptvtr/tele1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/vZ2Hw9y/KuDeTzL.png" group-title="Haber",TBMM TV
@@ -214,7 +213,6 @@ https://itasli.tk/iptvtr/hunat.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nc1Zt9L/ilketv.png" group-title="Yerel",Ilke TV
 https://itasli.tk/iptvtr/ilke.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/jWw2PZz/kanal3.png" group-title="Yerel",Kanal 3
 https://itasli.tk/iptvtr/kanal3.m3u8
@@ -274,7 +272,7 @@ https://itasli.tk/iptvtr/trtworld.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7NygL96/nr1.png" group-title="Müzik",NR1
+#EXTINF:-1 tvg-id="Number One TV" tvg-name="Number One TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7NygL96/nr1.png" group-title="Müzik",NR1
 https://itasli.tk/iptvtr/nr1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/LdhfBLC/nr1turk.png" group-title="Müzik",NR1 Türk
@@ -307,7 +305,7 @@ https://itasli.tk/iptvtr/kralpop.m3u8
 #EXTINF:-1 tvg-id="Kral TV" tvg-name="Kral TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/j6qp4jT/kral.png" group-title="Müzik",Kral TV
 https://itasli.tk/iptvtr/kral.m3u8
 
-#EXTINF:-1 tvg-id="TRT Muzik" tvg-name="TRT Muzik" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="Müzik",TRT Muzik
+#EXTINF:-1 tvg-id="TRT Müzik" tvg-name="TRT Müzik" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="Müzik",TRT Müzik
 https://itasli.tk/iptvtr/trtmuzik.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png" group-title="Müzik",Med Muzîk
