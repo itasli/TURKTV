@@ -36,9 +36,6 @@ https://itasli.tk/iptvtr/beyaz.m3u8
 #EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png" group-title="Ulusal",360 TV
 https://itasli.tk/iptvtr/tv360.m3u8
 
-#EXTINF:-1 tvg-id="TRT 2" tvg-name="TRT 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvPH1gk/trt2.png" group-title="Ulusal",TRT 2
-https://itasli.tk/iptvtr/trt2.m3u8
-
 #EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png" group-title="Ulusal",A2
 https://itasli.tk/iptvtr/a2.m3u8
 
