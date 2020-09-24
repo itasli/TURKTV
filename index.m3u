@@ -42,7 +42,7 @@ https://itasli.tk/iptvtr/a2.m3u8
 #EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png" group-title="Ulusal",Show Max
 https://itasli.tk/iptvtr/showmax.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9VzXprW/Kanal-D-Drama.png" group-title="Ulusal",Kanal D Drama
+#EXTINF:-1 tvg-id="Kanal D Drama" tvg-name="Kanal D Drama" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9VzXprW/Kanal-D-Drama.png" group-title="Ulusal",Kanal D Drama
 https://itasli.tk/iptvtr/kanalddrama.m3u8
 
 #EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png" group-title="Ulusal",TV8.5
@@ -79,7 +79,7 @@ https://itasli.tk/iptvtr/criturkdizi.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RznYK89/cn.png" group-title="Çizgi Film",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RznYK89/cn.png" group-title="Çizgi Film",Cartoon Network
 https://itasli.tk/iptvtr/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png" group-title="Çizgi Film",TRT Çocuk
@@ -96,7 +96,7 @@ https://itasli.tk/iptvtr/minikacocuk.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZVQC7Jb/beinsportshaber.png" group-title="Spor",Bein Sport Haber
+#EXTINF:-1 tvg-id="Bein Sport Haber" tvg-name="Bein Sport Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZVQC7Jb/beinsportshaber.png" group-title="Spor",Bein Sport Haber
 https://itasli.tk/iptvtr/beinsportshaber.m3u8
 
 #EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SJ3BGgP/aspor.png" group-title="Spor",a Spor
@@ -319,7 +319,7 @@ https://itasli.tk/iptvtr/tv52.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rFY9xKV/tva.png" group-title="Yerel",TV A
 https://itasli.tk/iptvtr/tva.m3u8
 
-#EXTINF:-1 tvg-id="Uçankuş TV" tvg-name="Uçankuş TV" tvg-language="Turkish" tvg-logo="https://cdn.ucankus.com/images/ucankus-logo-640.jpg" group-title="Yerel",UçanKuş TV
+#EXTINF:-1 tvg-id="Uçankuş TV" tvg-name="Uçankuş TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/NyRckrd/ucankus.png" group-title="Yerel",UçanKuş TV
 https://itasli.tk/iptvtr/ucankus.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wBH7Gy8/vizyon58.png" group-title="Yerel",Vizyon 58
