@@ -36,6 +36,9 @@ https://itasli.tk/iptvtr/beyaz.m3u8
 #EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png" group-title="Ulusal",360 TV
 https://itasli.tk/iptvtr/tv360.m3u8
 
+#EXTINF:-1 tvg-id="TRT 2" tvg-name="TRT 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvPH1gk/trt2.png" group-title="Ulusal",TRT 2
+https://itasli.tk/iptvtr/trt2.m3u8
+
 #EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png" group-title="Ulusal",A2
 https://itasli.tk/iptvtr/a2.m3u8
 
@@ -59,14 +62,20 @@ https://itasli.tk/iptvtr/afyonturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HFLtSG8/cine5.png" group-title="Sinema",Cine5 TV
 https://itasli.tk/iptvtr/cine5.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5sK8RtZ/saban.png" group-title="Sinema",Saban TV
+https://itasli.tk/iptvtr/saban.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/42Hy0NH/zekimetin.png" group-title="Sinema",Zeki Metin TV
+https://itasli.tk/iptvtr/zekimetin.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/42Hy0NH/zekimetin.png" group-title="Sinema",Çok Güzel Hareketlet Bunlar
+https://itasli.tk/iptvtr/cgh.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ggtxHqs/denizpostasi.png" group-title="Sinema",Deniz Postası
 https://itasli.tk/iptvtr/denizpostasi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/MnjS0jf/royaltv.jpg" group-title="Sinema",Royal TV
 https://itasli.tk/iptvtr/royal.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5sK8RtZ/saban.png" group-title="Sinema",Saban TV
-https://itasli.tk/iptvtr/saban.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gS4LpZP/blutvaksiyon.png" group-title="Sinema",BLUTV Aksiyon
 https://itasli.tk/iptvtr/blutvaksiyon.m3u8
@@ -98,6 +107,9 @@ https://itasli.tk/iptvtr/minikacocuk.m3u8
 
 #EXTINF:-1 tvg-id="Bein Sport Haber" tvg-name="Bein Sport Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZVQC7Jb/beinsportshaber.png" group-title="Spor",Bein Sport Haber
 https://itasli.tk/iptvtr/beinsportshaber.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/T1gXLSm/eurosport1.png" group-title="Spor",Eurosport 1
+https://itasli.tk/iptvtr/eurosport1.m3u8
 
 #EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SJ3BGgP/aspor.png" group-title="Spor",a Spor
 https://itasli.tk/iptvtr/aspor.m3u8
