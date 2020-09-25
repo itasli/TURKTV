@@ -108,6 +108,9 @@ https://itasli.tk/iptvtr/beinsportshaber.m3u8
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/T1gXLSm/eurosport1.png" group-title="Spor",Eurosport 1
 https://itasli.tk/iptvtr/eurosport1.m3u8
 
+#EXTINF:-1 tvg-id="Tivibu Spor" tvg-name="Tivibu Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SnRp0QT/tivibuspor.png" group-title="Spor",Tivibu Spor
+https://itasli.tk/iptvtr/tivibuspor.m3u8
+
 #EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SJ3BGgP/aspor.png" group-title="Spor",a Spor
 https://itasli.tk/iptvtr/aspor.m3u8
 
