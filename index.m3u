@@ -68,7 +68,13 @@ https://itasli.tk/iptvtr/zekimetin.m3u8
 #EXTINF:-1 tvg-id="Çok Güzel Hareketlet Bunlar" tvg-name="Çok Güzel Hareketlet Bunlar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/StSCgpc/cgh.png" group-title="Sinema",Çok Güzel Hareketlet Bunlar
 https://itasli.tk/iptvtr/cgh.m3u8
 
-#EXTINF:-1 tvg-id="Deniz Postası" tvg-name="Deniz PostasıDeniz Postası" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ggtxHqs/denizpostasi.png" group-title="Sinema",Deniz Postası
+#EXTINF:-1 tvg-id="Aktif TV" tvg-name="Aktif TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hf3r0WQ/aktif.png" group-title="Sinema",Aktif TV
+https://itasli.tk/iptvtr/aktif.m3u8
+
+#EXTINF:-1 tvg-id="Leblebi TV" tvg-name="Leblebi TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SfkZz9F/leblebi.png" group-title="Sinema",Leblebi TV
+https://itasli.tk/iptvtr/leblebi.m3u8
+
+#EXTINF:-1 tvg-id="Deniz Postası" tvg-name="Deniz Postası" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ggtxHqs/denizpostasi.png" group-title="Sinema",Deniz Postası
 https://itasli.tk/iptvtr/denizpostasi.m3u8
 
 #EXTINF:-1 tvg-id="Royal TV" tvg-name="Royal TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/MnjS0jf/royaltv.jpg" group-title="Sinema",Royal TV
