@@ -322,6 +322,9 @@ https://itasli.tk/iptvtr/te60.m3u8
 #EXTINF:-1 tvg-id="Tempo TV" tvg-name="Tempo TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/41pxkg9/tempotv.png" group-title="Yerel",Tempo TV
 https://itasli.tk/iptvtr/tempo.m3u8
 
+#EXTINF:-1 tvg-id="TGRT EU" tvg-name="TGRT EU" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1bgh1PK/tgrteu2.png" group-title="Yerel",TGRT EU
+https://itasli.tk/iptvtr/tgrteu.m3u8
+
 #EXTINF:-1 tvg-id="tivi TÜRK" tvg-name="tivi TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="Yerel",tivi TÜRK
 https://itasli.tk/iptvtr/tiviturk.m3u8
 
