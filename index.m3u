@@ -68,6 +68,9 @@ https://itasli.tk/iptvtr/zekimetin.m3u8
 #EXTINF:-1 tvg-id="Çok Güzel Hareketlet Bunlar" tvg-name="Çok Güzel Hareketlet Bunlar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/StSCgpc/cgh.png" group-title="Sinema",Çok Güzel Hareketlet Bunlar
 https://itasli.tk/iptvtr/cgh.m3u8
 
+#EXTINF:-1 tvg-id="Güldür Güldür Show" tvg-name="Güldür Güldür Show" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N6g7YJV/ggs.png" group-title="Sinema",Güldür Güldür Show
+https://itasli.tk/iptvtr/ggs.m3u8
+
 #EXTINF:-1 tvg-id="Aktif TV" tvg-name="Aktif TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hf3r0WQ/aktif.png" group-title="Sinema",Aktif TV
 https://itasli.tk/iptvtr/aktif.m3u8
 
