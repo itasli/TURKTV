@@ -6,22 +6,22 @@ https://itasli.github.io/IPTVTR/logo.mp4
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/h94Qjzq/trt1.png" group-title="Ulusal",TRT 1
 https://itasli.tk/iptvtr/trt1.m3u8
 
-#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png" group-title="Ulusal",ATV HD
+#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png" group-title="Ulusal",A TV
 https://itasli.tk/iptvtr/atv.m3u8
 
-#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" group-title="Ulusal",SHOW HD
+#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" group-title="Ulusal",Show TV
 https://itasli.tk/iptvtr/show.m3u8
 
-#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png" group-title="Ulusal",STAR HD
+#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png" group-title="Ulusal",Star TV
 https://itasli.tk/iptvtr/star.m3u8
 
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TL4BtHw/kanald.png" group-title="Ulusal",Kanal D HD
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TL4BtHw/kanald.png" group-title="Ulusal",Kanal D
 https://itasli.tk/iptvtr/kanald.m3u8
 
-#EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png" group-title="Ulusal",FOX HD 
+#EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png" group-title="Ulusal",FOX
 https://itasli.tk/iptvtr/fox.m3u8
 
-#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png" group-title="Ulusal",Kanal 7 HD
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png" group-title="Ulusal",Kanal 7
 https://itasli.tk/iptvtr/kanal7.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png" group-title="Ulusal",TV8
