@@ -250,6 +250,9 @@ https://itasli.tk/iptvtr/ilke.m3u8
 #EXTINF:-1 tvg-id="Kanal 3" tvg-name="Kanal 3" tvg-language="Turkish" tvg-logo="https://i.ibb.co/jWw2PZz/kanal3.png" group-title="Yerel",Kanal 3
 https://itasli.tk/iptvtr/kanal3.m3u8
 
+#EXTINF:-1 tvg-id="Kanal 5" tvg-name="Kanal 5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gdKGH98/kanal-logo.png" group-title="Yerel",Kanal 5
+https://itasli.tk/iptvtr/kanal5.m3u8
+
 #EXTINF:-1 tvg-id="Kanal 12" tvg-name="Kanal 12" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c3QSwPJ/kanal12.png" group-title="Yerel",Kanal 12
 https://itasli.tk/iptvtr/kanal12.m3u8
 
