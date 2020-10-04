@@ -145,6 +145,15 @@ https://itasli.tk/iptvtr/ntv.m3u8
 #EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Mks8wFS/trthaber.jpg" group-title="Haber",TRT Haber
 https://itasli.tk/iptvtr/trthaber.m3u8
 
+#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="Haber",TRT World
+https://itasli.tk/iptvtr/trtworld.m3u8
+
+#EXTINF:-1 tvg-id="TRT AVAZ" tvg-name="TRT AVAZ" tvg-language="Turkish" tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" group-title="Haber",TRT Avaz
+https://itasli.tk/iptvtr/trtavaz.m3u8
+
+#EXTINF:-1 tvg-id="TRT TÜRK" tvg-name="TRT TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Br1knP7/R8SJH2m.png" group-title="Haber",TRT Türk
+https://itasli.tk/iptvtr/trtturk.m3u8
+
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7SXmSz4/tgrthaber.png" group-title="Haber",TGRT Haber
 https://itasli.tk/iptvtr/tgrthaber.m3u8
 
@@ -365,17 +374,8 @@ https://itasli.tk/iptvtr/yesilyurt.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Diyanet TV" tvg-name="Diyanet TV" tvg-language="Turkish" tvg-logo="https://diyanet.tv/uploaded/TR-televizyonumuz-yayin-hayatini-diyanet-tv-olarak-surdurecek-da3ga4dk88_Kirp.jpg" group-title="",Diyanet TV
+#EXTINF:-1 tvg-id="Diyanet TV" tvg-name="Diyanet TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/K0RvqHx/diyanet.png" group-title="Dini",Diyanet TV
 https://itasli.tk/iptvtr/diyanet.m3u8
-
-#EXTINF:-1 tvg-id="TRT AVAZ" tvg-name="TRT AVAZ" tvg-language="Turkish" tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" group-title="",TRT Avaz
-https://itasli.tk/iptvtr/trtavaz.m3u8
-
-#EXTINF:-1 tvg-id="TRT TÜRK" tvg-name="TRT TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Br1knP7/R8SJH2m.png" group-title="",TRT Türk
-https://itasli.tk/iptvtr/trtturk.m3u8
-
-#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="",TRT World
-https://itasli.tk/iptvtr/trtworld.m3u8
 
 
 
@@ -411,6 +411,9 @@ https://itasli.tk/iptvtr/kralpop.m3u8
 
 #EXTINF:-1 tvg-id="Kral TV" tvg-name="Kral TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/j6qp4jT/kral.png" group-title="Müzik",Kral TV
 https://itasli.tk/iptvtr/kral.m3u8
+
+#EXTINF:-1 tvg-id="Milyon TV" tvg-name="Milyon TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3kT4TVC/milyon.png" group-title="Müzik",Milyon TV
+https://itasli.tk/iptvtr/milyon.m3u8
 
 #EXTINF:-1 tvg-id="TRT Müzik" tvg-name="TRT Müzik" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="Müzik",TRT Müzik
 https://itasli.tk/iptvtr/trtmuzik.m3u8
