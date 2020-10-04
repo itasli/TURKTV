@@ -12,23 +12,14 @@ https://itasli.tk/iptvtr/trt2.m3u8
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png" group-title="Ulusal",ATV
 https://itasli.tk/iptvtr/atv.m3u8
 
-#EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png" group-title="Ulusal",A2
-https://itasli.tk/iptvtr/a2.m3u8
-
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" group-title="Ulusal",Show TV
 https://itasli.tk/iptvtr/show.m3u8
-
-#EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png" group-title="Ulusal",Show Max
-https://itasli.tk/iptvtr/showmax.m3u8
 
 #EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png" group-title="Ulusal",Star TV
 https://itasli.tk/iptvtr/star.m3u8
 
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TL4BtHw/kanald.png" group-title="Ulusal",Kanal D
 https://itasli.tk/iptvtr/kanald.m3u8
-
-#EXTINF:-1 tvg-id="Kanal D Drama" tvg-name="Kanal D Drama" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9VzXprW/Kanal-D-Drama.png" group-title="Ulusal",Kanal D Drama
-https://itasli.tk/iptvtr/kanalddrama.m3u8
 
 #EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png" group-title="Ulusal",FOX
 https://itasli.tk/iptvtr/fox.m3u8
@@ -52,6 +43,14 @@ https://itasli.tk/iptvtr/beyaz.m3u8
 https://itasli.tk/iptvtr/tv360.m3u8
 
 
+#EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png" group-title="Sinema",A2
+https://itasli.tk/iptvtr/a2.m3u8
+
+#EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png" group-title="Sinema",Show Max
+https://itasli.tk/iptvtr/showmax.m3u8
+
+#EXTINF:-1 tvg-id="Kanal D Drama" tvg-name="Kanal D Drama" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9VzXprW/Kanal-D-Drama.png" group-title="Sinema",Kanal D Drama
+https://itasli.tk/iptvtr/kanalddrama.m3u8
 
 #EXTINF:-1 tvg-id="Vizyon TV" tvg-name="Vizyon TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png" group-title="Sinema",Vizyon TV
 https://itasli.tk/iptvtr/vizyon.m3u8
@@ -70,9 +69,6 @@ https://itasli.tk/iptvtr/zekimetin.m3u8
 
 #EXTINF:-1 tvg-id="Çok Güzel Hareketler Bunlar" tvg-name="Çok Güzel Hareketler Bunlar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/StSCgpc/cgh.png" group-title="Sinema",Çok Güzel Hareketler Bunlar
 https://itasli.tk/iptvtr/cgh.m3u8
-
-#EXTINF:-1 tvg-id="Güldür Güldür Show" tvg-name="Güldür Güldür Show" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N6g7YJV/ggs.png" group-title="Sinema",Güldür Güldür Show
-https://itasli.tk/iptvtr/ggs.m3u8
 
 #EXTINF:-1 tvg-id="Aktif TV" tvg-name="Aktif TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hf3r0WQ/aktif.png" group-title="Sinema",Aktif TV
 https://itasli.tk/iptvtr/aktif.m3u8
