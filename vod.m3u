@@ -1355,3 +1355,84 @@ http://cdn2.video.az:9000/stream/_definst_/smil:movie/15/14874/video.smil/chunkl
 
 #EXTINF:-1, Süper Polisler 2  HDRip
 http://cdn2.video.az:9000/stream/_definst_/smil:movie/14/14784/video.smil/chunklist_w1598211264_b800000.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn11.video.az/storage/movie/12/12666/cover.jpg" group-title="",Hababam.Sınıfı 
+http://cdn11.video.az/storage/movie/12/12666/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn10.video.az/storage/movie/12/12665/cover.jpg" group-title="",Hababam Sınıfı Sınıfta Kaldı 
+http://cdn10.video.az/storage/movie/12/12665/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn8.video.az/storage/movie/12/12664/cover.jpg" group-title="",Hababam Sınıfı Tatilde 
+http://cdn8.video.az/storage/movie/12/12664/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn6.video.az/storage/movie/12/12662/cover.jpg" group-title="",Hababam Sınıfı Dokuz Doğuruyor 
+http://cdn6.video.az/storage/movie/12/12662/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn4.video.az/storage/movie/12/12660/cover.jpg" group-title="",Hababam Sınıfı Üç Buçuk 
+http://cdn4.video.az/storage/movie/12/12660/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn11.video.az/storage/movie/13/12976/cover.jpg" group-title="",Şaban Oğlu Şaban 
+http://cdn11.video.az/storage/movie/13/12976/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn12.video.az/storage/movie/13/12977/cover.jpg" group-title="",Süt Kardeşler 
+http://cdn12.video.az/storage/movie/13/12977/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn6.video.az/storage/movie/13/12978/cover.jpg" group-title="",Tosun Paşa 
+http://cdn6.video.az/storage/movie/13/12978/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn10.video.az/storage/movie/13/12975/cover.jpg" group-title="",Kibar Feyzo 
+http://cdn10.video.az/storage/movie/13/12975/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn8.video.az/storage/movie/13/12974/cover.jpg" group-title="",Gurbetçi Şaban 
+http://cdn8.video.az/storage/movie/13/12974/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn6.video.az/storage/movie/13/12972/cover.jpg" group-title="",Yüz Numaralı Adam 
+http://cdn6.video.az/storage/movie/13/12972/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn4.video.az/storage/movie/13/12971/cover.jpg" group-title="",Devlet Kuşu 
+http://cdn4.video.az/storage/movie/13/12971/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn6.video.az/storage/movie/13/12824/cover.jpg" group-title="",Postacı 
+http://cdn6.video.az/storage/movie/13/12824/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn4.video.az/storage/movie/13/12823/cover.jpg" group-title="",Deli Deli Küpeli 
+http://cdn4.video.az/storage/movie/13/12823/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn12.video.az/storage/movie/13/12821/cover.jpg" group-title="",Yakışıklı 
+http://cdn12.video.az/storage/movie/13/12821/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn11.video.az/storage/movie/13/12820/cover.jpg" group-title="",Bıçkın 
+http://cdn11.video.az/storage/movie/13/12820/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn10.video.az/storage/movie/13/12819/cover.jpg" group-title="",Kanlı Nigar 
+http://cdn10.video.az/storage/movie/13/12819/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn8.video.az/storage/movie/13/12818/cover.jpg" group-title="",Doktor Civanım 
+http://cdn8.video.az/storage/movie/13/12818/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn6.video.az/storage/movie/13/12816/cover.jpg" group-title="",Garip 
+http://cdn6.video.az/storage/movie/13/12816/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn4.video.az/storage/movie/13/12815/cover.jpg" group-title="",Köyden İndim Şehire 
+http://cdn4.video.az/storage/movie/13/12815/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn6.video.az/storage/movie/13/12800/cover.jpg" group-title="",Zehir Hafiye
+http://cdn6.video.az/storage/movie/13/12800/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn12.video.az/storage/movie/13/12801/cover.jpg" group-title="",Oh Olsun 
+http://cdn12.video.az/storage/movie/13/12801/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn11.video.az/storage/movie/12/12799/cover.jpg" group-title="",Mavi Boncuk 
+http://cdn11.video.az/storage/movie/12/12799/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn10.video.az/storage/movie/12/12798/cover.jpg" group-title="",Kiracı 
+http://cdn10.video.az/storage/movie/12/12798/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn8.video.az/storage/movie/12/12797/cover.jpg" group-title="",Çöpçüler Kralı 
+http://cdn8.video.az/storage/movie/12/12797/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn6.video.az/storage/movie/12/12795/cover.jpg" group-title="",İnek Şaban
+http://cdn6.video.az/storage/movie/12/12795/video.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://cdn4.video.az/storage/movie/12/12794/cover.jpg" group-title="",Umudumuz Şaban 
+http://cdn4.video.az/storage/movie/12/12794/video.mp4
