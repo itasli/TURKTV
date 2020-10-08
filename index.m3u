@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://itasli.github.io/IPTVTR/logo.png" group-title="Ulusal",itasli.tk/iptvtr
 https://itasli.github.io/IPTVTR/logo.mp4
 
+#EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-language="Turkish" tvg-logo="https://i.ibb.co/t3FkGWH/trt4k.png" group-title="Ulusal",TRT 4K
+https://itasli.tk/iptvtr/trt2.m3u8
+
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/h94Qjzq/trt1.png" group-title="Ulusal",TRT 1
 https://itasli.tk/iptvtr/trt1.m3u8
 
