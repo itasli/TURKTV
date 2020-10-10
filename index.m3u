@@ -73,6 +73,9 @@ https://itasli.tk/iptvtr/zekimetin.m3u8
 #EXTINF:-1 tvg-id="Çok Güzel Hareketler Bunlar" tvg-name="Çok Güzel Hareketler Bunlar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/StSCgpc/cgh.png" group-title="Sinema",Çok Güzel Hareketler Bunlar
 https://itasli.tk/iptvtr/cgh.m3u8
 
+#EXTINF:-1 tvg-id="Güldür Güldür Show" tvg-name="Güldür Güldür Show" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N6g7YJV/ggs.png" group-title="Sinema",Güldür Güldür Show
+https://itasli.tk/iptvtr/ggs.m3u8
+
 #EXTINF:-1 tvg-id="Aktif TV" tvg-name="Aktif TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hf3r0WQ/aktif.png" group-title="Sinema",Aktif TV
 https://itasli.tk/iptvtr/aktif.m3u8
 
@@ -379,6 +382,15 @@ https://itasli.tk/iptvtr/yesilyurt.m3u8
 
 #EXTINF:-1 tvg-id="Diyanet TV" tvg-name="Diyanet TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/K0RvqHx/diyanet.png" group-title="Dini",Diyanet TV
 https://itasli.tk/iptvtr/diyanet.m3u8
+
+#EXTINF:-1 tvg-id="Lalegül TV" tvg-name="Lalegül TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sy8htxD/lalegul.png" group-title="Dini",Lalegül TV
+https://itasli.tk/iptvtr/lalegul.m3u8
+
+#EXTINF:-1 tvg-id="Semerkand TV" tvg-name="Semerkand TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/GP97B4r/semerkand.png" group-title="Dini",Semerkand TV
+https://itasli.tk/iptvtr/semerkand.m3u8
+
+#EXTINF:-1 tvg-id="KUDÜS TV" tvg-name="KUDÜS TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wz0sZpV/kudus.png" group-title="Dini",KUDÜS TV
+https://itasli.tk/iptvtr/kudus.m3u8
 
 
 
