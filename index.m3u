@@ -70,6 +70,10 @@ https://itasli.tk/iptvtr/saban.m3u8
 #EXTINF:-1 tvg-id="Zeki Metin TV" tvg-name="Zeki Metin TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/42Hy0NH/zekimetin.png" group-title="Sinema",Zeki Metin TV
 https://itasli.tk/iptvtr/zekimetin.m3u8
 
+
+#EXTINF:-1 tvg-id="Petra TV" tvg-name="Petra TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZM7R1PM/petra.png" group-title="Sinema",Petra TV
+https://itasli.tk/iptvtr/petra.m3u8
+
 #EXTINF:-1 tvg-id="Çok Güzel Hareketler Bunlar" tvg-name="Çok Güzel Hareketler Bunlar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/StSCgpc/cgh.png" group-title="Sinema",Çok Güzel Hareketler Bunlar
 https://itasli.tk/iptvtr/cgh.m3u8
 
