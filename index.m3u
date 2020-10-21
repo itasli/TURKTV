@@ -396,6 +396,9 @@ https://itasli.tk/iptvtr/semerkand.m3u8
 #EXTINF:-1 tvg-id="KUDÜS TV" tvg-name="KUDÜS TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wz0sZpV/kudus.png" group-title="Dini",KUDÜS TV
 https://itasli.tk/iptvtr/kudus.m3u8
 
+#EXTINF:-1 tvg-id="Rehber TV" tvg-name="Rehber TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yY7p5Fq/minilogo.png" group-title="Dini",Rehber TV
+https://itasli.tk/iptvtr/rehber.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Number One TV" tvg-name="Number One TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7NygL96/nr1.png" group-title="Müzik",NR1
