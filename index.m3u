@@ -1,481 +1,76 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://itasli.github.io/IPTVTR/logo.png" group-title="Ulusal",itasli.tk/iptvtr
-https://itasli.github.io/IPTVTR/logo.mp4
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/h94Qjzq/trt1.png",TRT 1
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-language="Turkish" tvg-logo="https://i.ibb.co/t3FkGWH/trt4k.png" group-title="Ulusal",TRT 4K
-https://itasli.tk/iptvtr/trt4k.m3u8
+#EXTINF:-1 tvg-id="Show Türk" tvg-name="Show Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SmdJ4rF/showturk.png" group-title="Ulusal",Show Türk
+https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
 
-#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/h94Qjzq/trt1.png" group-title="Ulusal",TRT 1
-https://itasli.tk/iptvtr/trt1.m3u8
+#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png",Star TV
+https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TRT 2" tvg-name="TRT 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvPH1gk/trt2.png" group-title="Ulusal",TRT 2
-https://itasli.tk/iptvtr/trt2.m3u8
+#EXTINF:-1 tvg-id="EuroStar" tvg-name="EuroStar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bmnFsLV/eurostar.png",EuroStar
+https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png" group-title="Ulusal",ATV
-https://itasli.tk/iptvtr/atv.m3u8
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TL4BtHw/kanald.png",Kanal D
+https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" group-title="Ulusal",Show TV
-https://itasli.tk/iptvtr/show.m3u8
-
-#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png" group-title="Ulusal",Star TV
-https://itasli.tk/iptvtr/star.m3u8
-
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TL4BtHw/kanald.png" group-title="Ulusal",Kanal D
-https://itasli.tk/iptvtr/kanald.m3u8
+#EXTINF:-1 tvg-id="Euro D" tvg-name="Euro D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TL4BtHw/kanald.png",Euro D
+https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png" group-title="Ulusal",FOX
-https://itasli.tk/iptvtr/fox.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png" group-title="Ulusal",Kanal 7
-https://itasli.tk/iptvtr/kanal7.m3u8
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png",Kanal 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png" group-title="Ulusal",TV8
-https://itasli.tk/iptvtr/tv8.m3u8
+#EXTINF:-1 tvg-id="Kanal 7 Avrupa" tvg-name="Kanal 7 Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1rhzvp0/kanal7avrupa.png",Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 
-#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png" group-title="Ulusal",TV8.5
-https://itasli.tk/iptvtr/tv85.m3u8
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png",TV8
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png" group-title="Ulusal",Teve2
-https://itasli.tk/iptvtr/teve2.m3u8
+#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png",TV8.5
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png" group-title="Ulusal",Beyaz TV
-https://itasli.tk/iptvtr/beyaz.m3u8
+#EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png",Teve2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
 
-#EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png" group-title="Ulusal",360 TV
-https://itasli.tk/iptvtr/tv360.m3u8
+#EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
+#EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png",A2
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png" group-title="Sinema",A2
-https://itasli.tk/iptvtr/a2.m3u8
+#EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png",TRT Çocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png" group-title="Sinema",Show Max
-https://itasli.tk/iptvtr/showmax.m3u8
+#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Kanal D Drama" tvg-name="Kanal D Drama" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9VzXprW/Kanal-D-Drama.png" group-title="Sinema",Kanal D Drama
-https://itasli.tk/iptvtr/kanalddrama.m3u8
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png",NTV 
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Vizyon TV" tvg-name="Vizyon TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png" group-title="Sinema",Vizyon TV
-https://itasli.tk/iptvtr/vizyon.m3u8
+#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Mks8wFS/trthaber.jpg",TRT Haber
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Afyon Türk TV" tvg-name="Afyon Türk TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hXrJgs9/afyonturk.png" group-title="Sinema",Afyon Türk TV
-https://itasli.tk/iptvtr/afyonturk.m3u8
+#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7SXmSz4/tgrthaber.png",TGRT Haber
+https://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8
 
-#EXTINF:-1 tvg-id="Cine5 TV" tvg-name="Cine5 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HFLtSG8/cine5.png" group-title="Sinema",Cine5 TV
-https://itasli.tk/iptvtr/cine5.m3u8
+#EXTINF:-1 tvg-id="HABERGLOBAL" tvg-name="HABERGLOBAL" tvg-language="Turkish" tvg-logo="https://i.ibb.co/mTTgWjy/haberglobal.png",HABERGLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-id="Saban TV" tvg-name="Saban TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5sK8RtZ/saban.png" group-title="Sinema",Saban TV
-https://itasli.tk/iptvtr/saban.m3u8
+#EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Hd6cPGm/haberturk.png",HABERTURK
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-id="Zeki Metin TV" tvg-name="Zeki Metin TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/42Hy0NH/zekimetin.png" group-title="Sinema",Zeki Metin TV
-https://itasli.tk/iptvtr/zekimetin.m3u8
+#EXTINF:-1 tvg-id="Bloomberg HT" tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DVRzygX/bloomberg.jpg",Bloomberg HT
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/chunklist_b2064000.m3u8
 
+#EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2v2W5g1/24.png",24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
-#EXTINF:-1 tvg-id="Petra TV" tvg-name="Petra TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZM7R1PM/petra.png" group-title="Sinema",Petra TV
-https://itasli.tk/iptvtr/petra.m3u8
+#EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5W0L35x/cnnturk.png",CNN Türk
+https://soledge13.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Çok Güzel Hareketler Bunlar" tvg-name="Çok Güzel Hareketler Bunlar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/StSCgpc/cgh.png" group-title="Sinema",Çok Güzel Hareketler Bunlar
-https://itasli.tk/iptvtr/cgh.m3u8
-
-#EXTINF:-1 tvg-id="Güldür Güldür Show" tvg-name="Güldür Güldür Show" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N6g7YJV/ggs.png" group-title="Sinema",Güldür Güldür Show
-https://itasli.tk/iptvtr/ggs.m3u8
-
-#EXTINF:-1 tvg-id="Aktif TV" tvg-name="Aktif TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hf3r0WQ/aktif.png" group-title="Sinema",Aktif TV
-https://itasli.tk/iptvtr/aktif.m3u8
-
-#EXTINF:-1 tvg-id="Leblebi TV" tvg-name="Leblebi TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SfkZz9F/leblebi.png" group-title="Sinema",Leblebi TV
-https://itasli.tk/iptvtr/leblebi.m3u8
-
-#EXTINF:-1 tvg-id="Deniz Postası" tvg-name="Deniz Postası" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ggtxHqs/denizpostasi.png" group-title="Sinema",Deniz Postası
-https://itasli.tk/iptvtr/denizpostasi.m3u8
-
-#EXTINF:-1 tvg-id="Royal TV" tvg-name="Royal TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/MnjS0jf/royaltv.jpg" group-title="Sinema",Royal TV
-https://itasli.tk/iptvtr/royal.m3u8
-
-#EXTINF:-1 tvg-id="BLUTV Aksiyon" tvg-name="BLUTV Aksiyon" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gS4LpZP/blutvaksiyon.png" group-title="Sinema",BLUTV Aksiyon
-https://itasli.tk/iptvtr/blutvaksiyon.m3u8
-
-#EXTINF:-1 tvg-id="BLUTV Komedi" tvg-name="BLUTV Komedi" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zsmXjcx/blutvkomedi.png" group-title="Sinema",BLUTV Komedi
-https://itasli.tk/iptvtr/blutvkomedi.m3u8
-
-#EXTINF:-1 tvg-id="CRI Türk Dizi" tvg-name="CRI Türk Dizi" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DRdWWY9/criturk.png" group-title="Sinema",CRI Türk Dizi
-https://itasli.tk/iptvtr/criturkdizi.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RznYK89/cn.png" group-title="Çizgi Film",Cartoon Network
-https://itasli.tk/iptvtr/cartoonnetwork.m3u8
-
-#EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png" group-title="Çizgi Film",TRT Çocuk
-https://itasli.tk/iptvtr/trtcocuk.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/8KTN00Q/dc.png" group-title="Çizgi Film",Disney Channel
-https://itasli.tk/iptvtr/disneychannel.m3u8
-
-#EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQM08hH/minikago.png" group-title="Çizgi Film",Minika Go
-https://itasli.tk/iptvtr/minikago.m3u8
-
-#EXTINF:-1 tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3RVSssb/minikacocuk.png" group-title="Çizgi Film",Minika Çocuk
-https://itasli.tk/iptvtr/minikacocuk.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Bein Sport Haber" tvg-name="Bein Sport Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZVQC7Jb/beinsportshaber.png" group-title="Spor",Bein Sport Haber
-https://itasli.tk/iptvtr/beinsportshaber.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/T1gXLSm/eurosport1.png" group-title="Spor",Eurosport 1
-https://itasli.tk/iptvtr/eurosport1.m3u8
-
-#EXTINF:-1 tvg-id="Tivibu Spor" tvg-name="Tivibu Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SnRp0QT/tivibuspor.png" group-title="Spor",Tivibu Spor
-https://itasli.tk/iptvtr/tivibuspor.m3u8
-
-#EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SJ3BGgP/aspor.png" group-title="Spor",a Spor
-https://itasli.tk/iptvtr/aspor.m3u8
-
-#EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png" group-title="Spor",TRT Spor
-https://itasli.tk/iptvtr/trtspor.m3u8
-
-#EXTINF:-1 tvg-id="TRT Spor 2" tvg-name="TRT Spor 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YZJqg86/TRT-Spor-2-kurumsal-logo.png" group-title="Spor",TRT Spor 2
-https://itasli.tk/iptvtr/trtspor2.m3u8
-
-#EXTINF:-1 tvg-id="Sports TV" tvg-name="Sports TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png" group-title="Spor",Sports TV
-https://itasli.tk/iptvtr/sports.m3u8
-
-#EXTINF:-1 tvg-id="NTV Spor" tvg-name="NTV Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/g6J1shF/ntvspor-logo.png" group-title="Spor",NTV Spor
-https://itasli.tk/iptvtr/ntvspor.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg" group-title="Haber",TVNET
-https://itasli.tk/iptvtr/tvnet.m3u8
-
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png" group-title="Haber",NTV 
-https://itasli.tk/iptvtr/ntv.m3u8
-
-#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Mks8wFS/trthaber.jpg" group-title="Haber",TRT Haber
-https://itasli.tk/iptvtr/trthaber.m3u8
-
-#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="Haber",TRT World
-https://itasli.tk/iptvtr/trtworld.m3u8
-
-#EXTINF:-1 tvg-id="TRT AVAZ" tvg-name="TRT AVAZ" tvg-language="Turkish" tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" group-title="Haber",TRT Avaz
-https://itasli.tk/iptvtr/trtavaz.m3u8
-
-#EXTINF:-1 tvg-id="TRT TÜRK" tvg-name="TRT TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Br1knP7/R8SJH2m.png" group-title="Haber",TRT Türk
-https://itasli.tk/iptvtr/trtturk.m3u8
-
-#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7SXmSz4/tgrthaber.png" group-title="Haber",TGRT Haber
-https://itasli.tk/iptvtr/tgrthaber.m3u8
-
-#EXTINF:-1 tvg-id="HABERGLOBAL" tvg-name="HABERGLOBAL" tvg-language="Turkish" tvg-logo="https://i.ibb.co/mTTgWjy/haberglobal.png" group-title="Haber",HABERGLOBAL
-https://itasli.tk/iptvtr/haberglobal.m3u8
-
-#EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Hd6cPGm/haberturk.png" group-title="Haber",HABERTURK
-https://itasli.tk/iptvtr/haberturk.m3u8
-
-#EXTINF:-1 tvg-id="BENGUTURK" tvg-name="BENGUTURK" tvg-language="Turkish" tvg-logo="https://img.gazetevatan.com/vatanmediafile/Haber598x362/2016/03/01/benguturk-tv-de-turksat-tarafindan-karartildi-2026678.Jpeg" group-title="Haber",BENGUTURK
-https://itasli.tk/iptvtr/benguturk.m3u8
-
-#EXTINF:-1 tvg-id="Bloomberg HT" tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DVRzygX/bloomberg.jpg" group-title="Haber",Bloomberg HT
-https://itasli.tk/iptvtr/bloomberght.m3u8
-
-#EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2v2W5g1/24.png" group-title="Haber",24
-https://itasli.tk/iptvtr/tv24.m3u8
-
-#EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5W0L35x/cnnturk.png" group-title="Haber",CNN Türk
-https://itasli.tk/iptvtr/cnnturk.m3u8
-
-#EXTINF:-1 tvg-id="Ülke TV" tvg-name="Ülke TV" tvg-language="Turkish" tvg-logo="https://cdn.kanal7.com/ulketv/wp-content/uploads/2015/12/29112014172109.jpg" group-title="Haber",Ülke TV
-https://itasli.tk/iptvtr/ulke.m3u8
-
-#EXTINF:-1 tvg-id="Akit TV" tvg-name=""Akit TV tvg-language="Turkish" tvg-logo="https://i.ibb.co/kxRndv8/logo.png" group-title="Haber",Akit TV
-https://itasli.tk/iptvtr/akit.m3u8
-
-#EXTINF:-1 tvg-id="Kontv" tvg-name="Kontv" tvg-language="Turkish" tvg-logo="https://i.ibb.co/KjVF97d/D8uqiZD.jpg" group-title="Haber",Kon TV
-https://itasli.tk/iptvtr/kon.m3u8
-
-#EXTINF:-1 tvg-id="Halk TV" tvg-name="Halk TV" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HalkTVLogo.jpg" group-title="Haber",Halk TV
-https://itasli.tk/iptvtr/halk.m3u8
-
-#EXTINF:-1 tvg-id="Tele 1" tvg-name="Tele 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Yq2m25/tele1.png" group-title="Haber",Tele 1
-https://itasli.tk/iptvtr/tele1.m3u8
-
-#EXTINF:-1 tvg-id="TV100" tvg-name="TV100" tvg-language="Turkish" tvg-logo="https://i.ibb.co/8cKZ229/logo.png" group-title="Haber",TV100
-https://itasli.tk/iptvtr/tv100.m3u8
-
-#EXTINF:-1 tvg-id="TBMM TV" tvg-name="TBMM TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/vZ2Hw9y/KuDeTzL.png" group-title="Haber",TBMM TV
-https://itasli.tk/iptvtr/tbmm.m3u8
-
-#EXTINF:-1 tvg-id="a Haber" tvg-name="a Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bWCndfr/ahbr.png" group-title="Haber",a Haber
-https://itasli.tk/iptvtr/ahaber.m3u8
-
-#EXTINF:-1 tvg-id="a Para" tvg-name="a Para" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5hNNmjY/apara.png" group-title="Haber",a Para
-https://itasli.tk/iptvtr/apara.m3u8
-
-#EXTINF:-1 tvg-id="Finans Turk TV" tvg-name="Finans Turk TV" tvg-language="Turkish" tvg-logo="https://www.finansturktv.com/images/logo/yok.jpg" group-title="Haber",Finans Turk TV
-https://itasli.tk/iptvtr/finansturk.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Aksu TV" tvg-name="Aksu TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7JxJhPg/aksutv.png" group-title="Yerel",Aksu TV
-https://itasli.tk/iptvtr/aksu.m3u8
-
-#EXTINF:-1 tvg-id="As TV" tvg-name="As TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/GppJVkb/astv.png" group-title="Yerel",As TV
-https://itasli.tk/iptvtr/as.m3u8
-
-#EXTINF:-1 tvg-id="Bitlis TV" tvg-name="Bitlis TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/PWhNQjS/bitlistv.png" group-title="Yerel",Bitlis TV
-https://itasli.tk/iptvtr/bitlis.m3u8
-
-#EXTINF:-1 tvg-id="BLT Türk" tvg-name="BLT Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/g9t8MK6/bltturk.png" group-title="Yerel",BLT Türk
-https://itasli.tk/iptvtr/bltturk.m3u8
-
-#EXTINF:-1 tvg-id="BRTV" tvg-name="BRTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5cjMtBx/brtv.png" group-title="Yerel",BRTV
-https://itasli.tk/iptvtr/br.m3u8
-
-#EXTINF:-1 tvg-id="BRT 1" tvg-name="BRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/WkVL8Y5/brt1.png" group-title="Yerel",BRT 1
-https://itasli.tk/iptvtr/brt1.m3u8
-
-#EXTINF:-1 tvg-id="Deha TV" tvg-name="Deha TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xMBLy0j/dehatv.png" group-title="Yerel",Deha TV
-https://itasli.tk/iptvtr/deha.m3u8
-
-#EXTINF:-1 tvg-id="EGETV" tvg-name="EGETV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gSFfSTF/egetv.png" group-title="Yerel",EGETV
-https://itasli.tk/iptvtr/ege.m3u8
-
-#EXTINF:-1 tvg-id="ER TV" tvg-name="ER TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xLFh1hV/ertv.png" group-title="Yerel",ER TV
-https://itasli.tk/iptvtr/er.m3u8
-
-#EXTINF:-1 tvg-id="ES TV" tvg-name="ES TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0J0PPwN/estv.png" group-title="Yerel",ES TV
-https://itasli.tk/iptvtr/es.m3u8
-
-#EXTINF:-1 tvg-id="FRT TV" tvg-name="FRT TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FVNVbkw/frttv.png" group-title="Yerel",FRT TV
-https://itasli.tk/iptvtr/frt.m3u8
-
-#EXTINF:-1 tvg-id="Gaziantep Olay" tvg-name="Gaziantep Olay" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YZVkH7Y/olay.png" group-title="Yerel",Gaziantep Olay
-https://itasli.tk/iptvtr/olay.m3u8
-
-#EXTINF:-1 tvg-id="ON 4 TV" tvg-name="ON 4 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TtbYRZD/i3ua14I.jpg" group-title="Yerel",ON 4 TV
-https://itasli.tk/iptvtr/on4.m3u8
-
-#EXTINF:-1 tvg-id="GRT" tvg-name="GRT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sj0fCwz/grt.png" group-title="Yerel",GRT
-https://itasli.tk/iptvtr/grt.m3u8
-
-#EXTINF:-1 tvg-id="Hunat TV" tvg-name="Hunat TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/d4BYKHy/hunattv.png" group-title="Yerel",Hunat TV
-https://itasli.tk/iptvtr/hunat.m3u8
-
-#EXTINF:-1 tvg-id="Ilke TV" tvg-name="Ilke TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nc1Zt9L/ilketv.png" group-title="Yerel",Ilke TV
-https://itasli.tk/iptvtr/ilke.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 3" tvg-name="Kanal 3" tvg-language="Turkish" tvg-logo="https://i.ibb.co/jWw2PZz/kanal3.png" group-title="Yerel",Kanal 3
-https://itasli.tk/iptvtr/kanal3.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 5" tvg-name="Kanal 5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gdKGH98/kanal-logo.png" group-title="Yerel",Kanal 5
-https://itasli.tk/iptvtr/kanal5.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 12" tvg-name="Kanal 12" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c3QSwPJ/kanal12.png" group-title="Yerel",Kanal 12
-https://itasli.tk/iptvtr/kanal12.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 15" tvg-name="Kanal 15" tvg-language="Turkish" tvg-logo="https://i.ibb.co/jhZxMBg/kanal15.png" group-title="Yerel",Kanal 15
-https://itasli.tk/iptvtr/kanal15.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 19" tvg-name="Kanal 19" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wyGtN54/kanal19.jpg" group-title="Yerel",Kanal 19
-https://itasli.tk/iptvtr/kanal19.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 23" tvg-name="Kanal 23" tvg-language="Turkish" tvg-logo="https://i.ibb.co/84h18Z1/kanal23.png" group-title="Yerel",Kanal 23
-https://itasli.tk/iptvtr/kanal23.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 26" tvg-name="Kanal 26" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Wf9qjcM/kanal26.png" group-title="Yerel",Kanal 26
-https://itasli.tk/iptvtr/kanal26.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 33" tvg-name="Kanal 33" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Ltyrhsm/kanal33.png" group-title="Yerel",Kanal 33
-https://itasli.tk/iptvtr/kanal33.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 34" tvg-name="Kanal 34" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nRHCMMk/kanal-34.png" group-title="Yerel",Kanal 34
-https://itasli.tk/iptvtr/kanal34.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 38" tvg-name="Kanal 38" tvg-language="Turkish" tvg-logo="https://i.ibb.co/NVcg75g/kanal38.png" group-title="Yerel",Kanal 38
-https://itasli.tk/iptvtr/kanal38.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 43" tvg-name="Kanal 43" tvg-language="Turkish" tvg-logo="https://i.ibb.co/230Lp2m/512x512bb.jpg" group-title="Yerel",Kanal 43
-https://itasli.tk/iptvtr/kanal43.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 56" tvg-name="Kanal 56" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9yf4RX6/kanal56.png" group-title="Yerel",Kanal 56
-https://itasli.tk/iptvtr/kanal56.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 68" tvg-name="Kanal 68" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RjCcNKL/kanal68.png" group-title="Yerel",Kanal 68
-https://itasli.tk/iptvtr/kanal68.m3u8
-
-#EXTINF:-1 tvg-id="Kanal A" tvg-name="Kanal A" tvg-language="Turkish" tvg-logo="https://i.ibb.co/6vNJXDS/kanala.png" group-title="Yerel",Kanal A
-https://itasli.tk/iptvtr/kanala.m3u8
-
-#EXTINF:-1 tvg-id="Kanal B" tvg-name="Kanal B" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QDvBS0v/kanalb-logo.png" group-title="Yerel",Kanal B
-https://itasli.tk/iptvtr/kanalb.m3u8
-
-#EXTINF:-1 tvg-id="Kanal Firat" tvg-name="Kanal Firat" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bLzC8Sh/kanalfirat.png" group-title="Yerel",Kanal Firat
-https://itasli.tk/iptvtr/kanalfirat.m3u8
-
-#EXTINF:-1 tvg-id="Kanal V" tvg-name="Kanal V" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LTF8fb/kanalv.png" group-title="Yerel",Kanal V
-https://itasli.tk/iptvtr/kanalv.m3u8
-
-#EXTINF:-1 tvg-id="Kanal Z" tvg-name="Kanal Z" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fQZv6CP/kanalz.png" group-title="Yerel",Kanal Z
-https://itasli.tk/iptvtr/kanalz.m3u8
-
-#EXTINF:-1 tvg-id="Kay Tv" tvg-name="Kay Tv" tvg-language="Turkish" tvg-logo="https://i.ibb.co/x3CWLpP/kaytv.png" group-title="Yerel",Kay Tv
-https://itasli.tk/iptvtr/kay.m3u8
-
-#EXTINF:-1 tvg-id="Kent Türk" tvg-name="Kent Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TYtch2v/38kenttv.png" group-title="Yerel",Kent Türk
-https://itasli.tk/iptvtr/kentturk.m3u8
-
-#EXTINF:-1 tvg-id="Mavi Karadeniz" tvg-name="Mavi Karadeniz" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zH33WRD/mavikaradeniz.png" group-title="Yerel",Mavi Karadeniz
-https://itasli.tk/iptvtr/mavikaradeniz.m3u8
-
-#EXTINF:-1 tvg-id="Mercan Tv" tvg-name="Mercan Tv" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rcNTPQ2/mercantv.png" group-title="Yerel",Mercan Tv
-https://itasli.tk/iptvtr/mercan.m3u8
-
-#EXTINF:-1 tvg-id="Mesaj Tv" tvg-name="Mesaj Tv" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QFwBz6W/mesajtv.png" group-title="Yerel",Mesaj Tv
-https://itasli.tk/iptvtr/mesaj.m3u8
-
-#EXTINF:-1 tvg-id="NTR TV" tvg-name="NTR TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nkM7yTb/ntr.png" group-title="Yerel",NTR TV
-https://itasli.tk/iptvtr/ntr.m3u8
-
-#EXTINF:-1 tvg-id="OLAYTÜRK" tvg-name="OLAYTÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hd0Tc8c/olayturk.png" group-title="Yerel",OLAYTÜRK
-https://itasli.tk/iptvtr/olayturk.m3u8
-
-#EXTINF:-1 tvg-id="Sat7Türk" tvg-name="Sat7Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c2wkDx0/sat7turk.png" group-title="Yerel",Sat7Türk
-https://itasli.tk/iptvtr/sat7turk.m3u8
-
-#EXTINF:-1 tvg-id="TE60 TV" tvg-name="TE60 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZcKRsjp/te60tv.png" group-title="Yerel",TE60 TV
-https://itasli.tk/iptvtr/te60.m3u8
-
-#EXTINF:-1 tvg-id="Tempo TV" tvg-name="Tempo TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/41pxkg9/tempotv.png" group-title="Yerel",Tempo TV
-https://itasli.tk/iptvtr/tempo.m3u8
-
-#EXTINF:-1 tvg-id="TGRT EU" tvg-name="TGRT EU" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1bgh1PK/tgrteu2.png" group-title="Yerel",TGRT EU
-https://itasli.tk/iptvtr/tgrteu.m3u8
-
-#EXTINF:-1 tvg-id="tivi TÜRK" tvg-name="tivi TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="Yerel",tivi TÜRK
-https://itasli.tk/iptvtr/tiviturk.m3u8
-
-#EXTINF:-1 tvg-id="Ton TV" tvg-name="Ton TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/LChnmvC/tontv.png" group-title="Yerel",Ton TV
-https://itasli.tk/iptvtr/ton.m3u8
-
-#EXTINF:-1 tvg-id="TV 4" tvg-name="TV 4" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QXDPwFR/ceYfPXJ.jpg" group-title="Yerel",TV 4
-https://itasli.tk/iptvtr/tv4.m3u8
-
-#EXTINF:-1 tvg-id="TV 41" tvg-name="TV 41" tvg-language="Turkish" tvg-logo="https://i.ibb.co/8M7m9bv/tv41.png" group-title="Yerel",TV 41
-https://itasli.tk/iptvtr/tv41.m3u8
-
-#EXTINF:-1 tvg-id="TV 52" tvg-name="TV 52" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hYBVjRV/tv52-yeni.png" group-title="Yerel",TV 52
-https://itasli.tk/iptvtr/tv52.m3u8
-
-#EXTINF:-1 tvg-id="TV A" tvg-name="TV A" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rFY9xKV/tva.png" group-title="Yerel",TV A
-https://itasli.tk/iptvtr/tva.m3u8
-
-#EXTINF:-1 tvg-id="Uçankuş TV" tvg-name="Uçankuş TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/NyRckrd/ucankus.png" group-title="Yerel",UçanKuş TV
-https://itasli.tk/iptvtr/ucankus.m3u8
-
-#EXTINF:-1 tvg-id="Vizyon 58" tvg-name="Vizyon 58" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wBH7Gy8/vizyon58.png" group-title="Yerel",Vizyon 58
-https://itasli.tk/iptvtr/vizyon58.m3u8
-
-#EXTINF:-1 tvg-id="Vuslat Tv" tvg-name="Vuslat Tv" tvg-language="Turkish" tvg-logo="https://i.ibb.co/C7zsd7S/vuslattv.png" group-title="Yerel",Vuslat Tv
-https://itasli.tk/iptvtr/vuslat.m3u8
-
-#EXTINF:-1 tvg-id="Yesilyurt Tv" tvg-name="Yesilyurt Tv" tvg-language="Turkish" tvg-logo="https://i.ibb.co/mJgMx4g/yesilyurttv.png" group-title="Yerel",Yesilyurt Tv
-https://itasli.tk/iptvtr/yesilyurt.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Diyanet TV" tvg-name="Diyanet TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/K0RvqHx/diyanet.png" group-title="Dini",Diyanet TV
-https://itasli.tk/iptvtr/diyanet.m3u8
-
-#EXTINF:-1 tvg-id="Lalegül TV" tvg-name="Lalegül TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sy8htxD/lalegul.png" group-title="Dini",Lalegül TV
-https://itasli.tk/iptvtr/lalegul.m3u8
-
-#EXTINF:-1 tvg-id="Semerkand TV" tvg-name="Semerkand TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/GP97B4r/semerkand.png" group-title="Dini",Semerkand TV
-https://itasli.tk/iptvtr/semerkand.m3u8
-
-#EXTINF:-1 tvg-id="KUDÜS TV" tvg-name="KUDÜS TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wz0sZpV/kudus.png" group-title="Dini",KUDÜS TV
-https://itasli.tk/iptvtr/kudus.m3u8
-
-#EXTINF:-1 tvg-id="Rehber TV" tvg-name="Rehber TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yY7p5Fq/minilogo.png" group-title="Dini",Rehber TV
-https://itasli.tk/iptvtr/rehber.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Number One TV" tvg-name="Number One TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7NygL96/nr1.png" group-title="Müzik",NR1
-https://itasli.tk/iptvtr/nr1.m3u8
-
-#EXTINF:-1 tvg-id="Number One Türk" tvg-name="Number One Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/LdhfBLC/nr1turk.png" group-title="Müzik",Number One Türk
-https://itasli.tk/iptvtr/nr1turk.m3u8
-
-#EXTINF:-1 tvg-id="Number One Damar" tvg-name="Number One Damar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HP8MdLr/nr1damar.png" group-title="Müzik",Number One Damar
-https://itasli.tk/iptvtr/nr1damar.m3u8
-
-#EXTINF:-1 tvg-id="Number One Aşk" tvg-name="Number One Aşk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fM4kZRB/nr1ask.png" group-title="Müzik",Number One Aşk
-https://itasli.tk/iptvtr/nr1ask.m3u8
-
-#EXTINF:-1 tvg-id="Number One Dance" tvg-name="Number One Dance" tvg-language="Turkish" tvg-logo="https://i.ibb.co/h17WPRL/nr1dance.png" group-title="Müzik",Number One Dance
-https://itasli.tk/iptvtr/nr1dance.m3u8
-
-#EXTINF:-1 tvg-id="Dream TV" tvg-name="Dream TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/tpQCzb9/0MXy3W0.png" group-title="Müzik",Dream TV
-https://itasli.tk/iptvtr/dream.m3u8
-
-#EXTINF:-1 tvg-id="Dream Türk" tvg-name="Dream Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zJHYHJV/21739dream.png" group-title="Müzik",Dream Türk
-https://itasli.tk/iptvtr/dreamturk.m3u8
-
-#EXTINF:-1 tvg-id="Power TV" tvg-name="Power TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4gGczhz/logo-44.png" group-title="Müzik",Power TV
-https://itasli.tk/iptvtr/power.m3u8
-
-#EXTINF:-1 tvg-id="Power Türk TV" tvg-name="Power Türk TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/v1vtvJt/N3keKip.png" group-title="Müzik",Power Türk TV
-https://itasli.tk/iptvtr/powerturk.m3u8
-
-#EXTINF:-1 tvg-id="KRAL POP TV" tvg-name="KRAL POP TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/6YfwRT3/Kral-Pop-logosu.png" group-title="Müzik",Kral Pop
-https://itasli.tk/iptvtr/kralpop.m3u8
-
-#EXTINF:-1 tvg-id="Kral TV" tvg-name="Kral TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/j6qp4jT/kral.png" group-title="Müzik",Kral TV
-https://itasli.tk/iptvtr/kral.m3u8
-
-#EXTINF:-1 tvg-id="Milyon TV" tvg-name="Milyon TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3kT4TVC/milyon.png" group-title="Müzik",Milyon TV
-https://itasli.tk/iptvtr/milyon.m3u8
-
-#EXTINF:-1 tvg-id="TRT Müzik" tvg-name="TRT Müzik" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="Müzik",TRT Müzik
-https://itasli.tk/iptvtr/trtmuzik.m3u8
-
-#EXTINF:-1 tvg-id="Med Muzîk" tvg-name="Med Muzîk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png" group-title="Müzik",Med Muzîk
-https://itasli.tk/iptvtr/medmuzik.m3u8
-
-#EXTINF:-1 tvg-id="Finest TV" tvg-name="Finest TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yRfTdSv/finest.png" group-title="Müzik",Finest TV
-https://itasli.tk/iptvtr/finest.m3u8
-
-#EXTINF:-1 tvg-id="Slow Karadeniz" tvg-name="Slow Karadeniz" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1T4cZd2/slowkaradeniz.png" group-title="Müzik",Slow Karadeniz
-https://itasli.tk/iptvtr/slowkaradeniz.m3u8
-
-#EXTINF:-1 tvg-id="DAMAR TV" tvg-name="DAMAR TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bL1pxQJ/damar.png" group-title="Müzik",DAMAR TV
-https://itasli.tk/iptvtr/damar.m3u8
-
-
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png" group-title="Belgesel",TLC
-https://itasli.tk/iptvtr/tlc.m3u8
-
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png" group-title="Belgesel",DMAX
-https://itasli.tk/iptvtr/dmax.m3u8
-
-#EXTINF:-1 tvg-id="YABAN TV" tvg-name="YABAN TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/319WZ5f/yaban.png" group-title="Belgesel",YABAN TV
-https://itasli.tk/iptvtr/yaban.m3u8
-
-#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/TRT_Belgesel_logosu.png" group-title="Belgesel",TRT Belgesel 
-https://itasli.tk/iptvtr/trtbelgesel.m3u8
-
-#EXTINF:-1 tvg-id="TGRT Belgesel" tvg-name="TGRT Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png" group-title="Belgesel",TGRT Belgesel
-https://itasli.tk/iptvtr/tgrtbelgesel.m3u8
-
-#EXTINF:-1 tvg-id="CRI Türk Belgesel" tvg-name="CRI Türk Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DRdWWY9/criturk.png" group-title="Belgesel",CRI Türk Belgesel
-https://itasli.tk/iptvtr/criturkbelgesel.m3u8
-
-#EXTINF:-1 tvg-id="Av TV" tvg-name="Av TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/kQRFpDJ/index.jpg" group-title="Belgesel",Av TV
-https://itasli.tk/iptvtr/avtv.m3u8
-
-#EXTINF:-1 tvg-id="Çiftci TV" tvg-name="Çiftci TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/B3XDDct/ciftci.png" group-title="Belgesel",Çiftci TV
-https://itasli.tk/iptvtr/ciftci.m3u8
-
-#EXTINF:-1 tvg-id="Makine TV" tvg-name="Makine TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/StSSdVk/makinetv.png" group-title="Belgesel",Makine TV
-https://itasli.tk/iptvtr/makine.m3u8
+#EXTINF:-1 tvg-id="Halk TV" tvg-name="Halk TV" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HalkTVLogo.jpg",Halk TV
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
