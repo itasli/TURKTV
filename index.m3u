@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://itasli.github.io/IPTVTR/logo.png",itasli.github.io/TURKTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s5zfj7H/turktv.png",itasli.github.io/TURKTV
 
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/h94Qjzq/trt1.png",TRT 1
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
