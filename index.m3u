@@ -7,7 +7,7 @@ https://i.ibb.co/YZG9MRS/turktv.png
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
-https://stream.hdtvizlecanli.com/atv.m3u8
+http://str01.canlitvlive.io:25461/tv/tv/319
 
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-name="ATV Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/k4yHhn7/atvavrupa.png",ATV Avrupa
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
@@ -75,6 +75,15 @@ https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1980100581.m3u8
 #EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png",TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQM08hH/minikago.png",Minika Go
+http://str01.canlitvlive.io:25461/tv/tv/222
+
+#EXTINF:-1 tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3RVSssb/minikacocuk.png",Minika Çocuk
+http://str01.canlitvlive.io:25461/tv/tv/223
+
+#EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bWCndfr/ahbr.png",A Haber
+http://str01.canlitvlive.io:25461/tv/tv/213
+
 #EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
@@ -115,7 +124,7 @@ http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png",TRT Spor
-http://iptvmasterlink.dyndns.org:5566/Entry/trtsporhd_yeni.m3u8
+http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor 2" tvg-name="TRT Spor 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YZJqg86/TRT-Spor-2-kurumsal-logo.png",TRT Spor 2
 http://iptvmasterlink.dyndns.org:8080/Entry/trtspor2hd_yeni.m3u8
