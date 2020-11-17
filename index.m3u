@@ -72,6 +72,9 @@ https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine5 TV" tvg-name="Cine5 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HFLtSG8/cine5.png",Cine5 TV
 https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1980100581.m3u8
 
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RznYK89/cn.png",Cartoon Network
+http://str01.canlitvlive.io:25461/tv/tv/325
+
 #EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png",TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
@@ -124,10 +127,10 @@ http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png",TRT Spor
-http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni.m3u8
+http://str01.canlitvlive.io:25461/tv/tv/219
 
 #EXTINF:-1 tvg-id="TRT Spor 2" tvg-name="TRT Spor 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YZJqg86/TRT-Spor-2-kurumsal-logo.png",TRT Spor 2
-http://iptvmasterlink.dyndns.org:8080/Entry/trtspor2hd_yeni.m3u8
+http://str01.canlitvlive.io:25461/tv/tv/349
 
 #EXTINF:-1 tvg-id="Sports TV" tvg-name="Sports TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
