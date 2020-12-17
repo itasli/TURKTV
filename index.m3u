@@ -13,7 +13,8 @@ http://185.129.1.242/atvhd/mpegts
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
 
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png",Show TV
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
+#https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
+http://185.129.1.242/showtvhd/mpegts?token=test
 
 #EXTINF:-1 tvg-id="Show Türk" tvg-name="Show Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xJZR1jT/showturk.png",Show Türk
 https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
@@ -35,13 +36,15 @@ https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png",Kanal 7
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+http://185.129.1.242/trtcocuk/mpegts?token=test
 
 #EXTINF:-1 tvg-id="Kanal 7 Avrupa" tvg-name="Kanal 7 Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1rhzvp0/kanal7avrupa.png",Kanal 7 Avrupa
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png",TV8
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
+#https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
+http://185.129.1.242/tv8hd/mpegts?token=test
 
 #EXTINF:-1 tvg-id="TV8 INT" tvg-name="TV8 INT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyjrbR7/tv8int.png",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/chunklist_b2096000.m3u8
@@ -89,7 +92,7 @@ http://str01.canlitvlive.io:25461/tv/tv/222
 http://str01.canlitvlive.io:25461/tv/tv/223
 
 #EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bWCndfr/ahbr.png",A Haber
-http://str01.canlitvlive.io:25461/tv/tv/213
+http://185.129.1.242/ahaberhd/mpegts?token=test
 
 #EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
@@ -132,7 +135,7 @@ http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
 http://185.129.1.242/asporhd/mpegts
 
 #EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png",TRT Spor
-http://str01.canlitvlive.io:25461/tv/tv/219
+http://185.129.1.242/trtspor/mpegts?token=test
 
 #EXTINF:-1 tvg-id="TRT Spor 2" tvg-name="TRT Spor 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YZJqg86/TRT-Spor-2-kurumsal-logo.png",TRT Spor 2
 http://str01.canlitvlive.io:25461/tv/tv/349
@@ -144,7 +147,8 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png",DMAX
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
+#https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
+http://185.129.1.242/dmaxhd/mpegts?token=test
 
 #EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyXRfXw/trtbelgesel.png",TRT Belgesel 
 https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
