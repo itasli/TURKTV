@@ -4,8 +4,8 @@
 https://i.ibb.co/YZG9MRS/turktv.png
 
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png",TRT 1
-#https://tv-trt1.live.trt.com.tr/master_720.m3u8
-http://185.129.1.242/trt1/mpegts?token=test
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+#http://185.129.1.242/trt1/mpegts?token=test
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
 http://185.129.1.242/atvhd/mpegts
@@ -78,7 +78,7 @@ https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1980100581.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RznYK89/cn.png",Cartoon Network
-http://str01.canlitvlive.io:25461/tv/tv/325
+http://185.129.1.242:80/cartoonnetworkturk/mpegts
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/8KTN00Q/dc.png",Disney Channel
 http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
@@ -87,10 +87,10 @@ http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQM08hH/minikago.png",Minika Go
-http://str01.canlitvlive.io:25461/tv/tv/222
+http://185.129.1.242/minikago/mpegts?token=test
 
 #EXTINF:-1 tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3RVSssb/minikacocuk.png",Minika Çocuk
-http://str01.canlitvlive.io:25461/tv/tv/223
+http://185.129.1.242:80/minikacocuk/mpegts?token=test
 
 #EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bWCndfr/ahbr.png",A Haber
 http://185.129.1.242/ahaberhd/mpegts?token=test
