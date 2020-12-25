@@ -150,8 +150,8 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png",DMAX
-#https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
-http://185.129.1.242/dmaxhd/mpegts?token=test
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
+#http://185.129.1.242/dmaxhd/mpegts?token=test
 
 #EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyXRfXw/trtbelgesel.png",TRT Belgesel 
 https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
