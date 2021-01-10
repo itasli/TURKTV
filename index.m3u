@@ -13,8 +13,8 @@ http://185.129.1.242/atvhd/mpegts
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
 
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png",Show TV
-#https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
-https://blutvlivestream.akamaized.net/hls/live/2024000/defEvent/show/ch004/index.m3u8
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
+#https://blutvlivestream.akamaized.net/hls/live/2024000/defEvent/show/ch004/index.m3u8
 
 #EXTINF:-1 tvg-id="Show Türk" tvg-name="Show Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xJZR1jT/showturk.png",Show Türk
 https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
