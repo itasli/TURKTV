@@ -31,8 +31,8 @@ https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
 https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png",FOX
-#https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
-https://blutvlivestream.akamaized.net/hls/live/2024000/defEvent/fox/ch000/index.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
+#https://blutvlivestream.akamaized.net/hls/live/2024000/defEvent/fox/ch000/index.m3u8
 
 #EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
