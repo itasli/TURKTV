@@ -7,7 +7,7 @@ https://i.ibb.co/YZG9MRS/turktv.png
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
-http://185.129.1.242/atvhd/mpegts
+http://stream.suboroiptv.tv/ATV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-name="ATV Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/k4yHhn7/atvavrupa.png",ATV Avrupa
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
@@ -59,7 +59,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8.m3u8
 
 #EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png",A2
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/chunklist_b2064000.m3u8
+http://iptvmasterlink.dyndns.org:5566/Entry/a2hd_yeni.m3u8
 
 #EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png",Show Max
 http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
