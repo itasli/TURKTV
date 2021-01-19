@@ -9,4 +9,4 @@ To watch IPTV just paste this link <https://itasli.github.io/TURKTV/index.m3u> t
 
 ## Roku
 
-Roku channel is released you can download it on your device using this link : <https://my.roku.com/account/add/IPTURKTV> and start streaming !
+Roku channel is released you can download it on your device using this link : <https://my.roku.com/account/add/CGGZLJ> !
