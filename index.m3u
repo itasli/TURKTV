@@ -147,10 +147,13 @@ http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/mani
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png",TRT Spor
-http://185.129.1.242/trtspor/mpegts?token=test
+http://iptvmasterlink.dyndns.org:5566/Entry/trtspor_yeni.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor 2" tvg-name="TRT Spor 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YZJqg86/TRT-Spor-2-kurumsal-logo.png",TRT Spor 2
-http://str01.canlitvlive.io:25461/tv/tv/349
+http://iptvmasterlink.dyndns.org:5566/Entry/trtspor2_yeni.m3u8
+
+#EXTINF:-1 tvg-id="TRT 3 Spor" tvg-name="TRT 3 Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/CH8rxzb/trt3spor.png",TRT 3 Spor
+https://tv-trt3.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="Sports TV" tvg-name="Sports TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
