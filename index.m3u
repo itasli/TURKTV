@@ -32,7 +32,6 @@ https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png",FOX
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
-#https://blutvlivestream.akamaized.net/hls/live/2024000/defEvent/fox/ch000/index.m3u8
 
 #EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
@@ -42,7 +41,7 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png",TV8
 #https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
-https://tv8.personamedia.tv/tv8hls?fmt=hls
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="TV8 INT" tvg-name="TV8 INT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyjrbR7/tv8int.png",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/chunklist_b2096000.m3u8
