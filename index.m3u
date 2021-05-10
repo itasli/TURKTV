@@ -7,7 +7,7 @@ https://i.ibb.co/YZG9MRS/turktv.png
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
-http://130.193.165.50:4000/play/a04r/index.m3u8
+http://miskokulunevresim.dyndns.tv:25461/stream/ATV_HD.m3u8
 
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-name="ATV Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/k4yHhn7/atvavrupa.png",ATV Avrupa
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
@@ -89,7 +89,7 @@ http://iptvmasterlink.dyndns.org:5566/Entry/minikago_yeni.m3u8
 http://iptvmasterlink.dyndns.org:5566/Entry/minikacocuk_yeni.m3u8
 
 #EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bWCndfr/ahbr.png",A Haber
-http://185.129.1.242/ahaberhd/mpegts?token=test
+http://buyutecaltinda.dyndns.tv:54981/stream/AHABER_HD.m3u8
 
 #EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
@@ -147,7 +147,7 @@ http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/mani
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png",TRT Spor
-http://iptvmasterlink.dyndns.org:5566/Entry/trtspor_yeni.m3u8
+https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor 2" tvg-name="TRT Spor 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YZJqg86/TRT-Spor-2-kurumsal-logo.png",TRT Spor 2
 http://iptvmasterlink.dyndns.org:5566/Entry/trtspor2_yeni.m3u8
