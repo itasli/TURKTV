@@ -25,7 +25,8 @@ https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2ttHzC4/kanald.png",Kanal D
-https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
+#https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="Euro D" tvg-name="Euro D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/C9YcngF/eurod.png",Euro D
 https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
@@ -50,7 +51,7 @@ https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/chunklist_b2096000.m3u8
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png",Teve2
-http://2122248074.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
@@ -65,7 +66,16 @@ http://iptvmasterlink.dyndns.org:8080/Entry/a2hd_yeni/tracks-v1a1/mono.m3u8
 http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
 
 #EXTINF:-1 tvg-id="Vizyon TV" tvg-name="Vizyon TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png",Vizyon TV
-https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/playlist.m3u8
+http://cdn-vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vizyon Yeşilçam" tvg-name="Vizyon Yeşilçam" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-YES-e1614468862346.png",Vizyon Yeşilçam
+https://vizyontv.yayin.com.tr/vizyon-yesilcam/vizyon-yesilcam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vizyon Türk Sinema" tvg-name="Vizyon Türk Sinema" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-TURK.png",Vizyon Türk Sinema
+https://vizyontv.yayin.com.tr/vizyon-turksinemasi/vizyon-turksinemasi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vizyon Yabanci Sinema" tvg-name="Vizyon Yabanci Sinema" tvg-language="Turkish" tvg-logo="https://www.vizyontv.eu/wp-content/uploads/2021/02/LL-SIN.png",Vizyon Yabanci Sinema
+https://vizyontv.yayin.com.tr/vizyon-sinema/vizyon-sinema/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Afyon Türk TV" tvg-name="Afyon Türk TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hXrJgs9/afyonturk.png",Afyon Türk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
@@ -164,6 +174,9 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png",DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
 
+#EXTINF:-1 tvg-id="Vizyon Belgesel" tvg-name="Vizyon Belgesel" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-BELG-e1614379400781.png",Vizyon Belgesel
+https://vizyontv.yayin.com.tr/vizyon-belgesel/vizyon-belgesel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyXRfXw/trtbelgesel.png",TRT Belgesel 
 https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
 
@@ -171,4 +184,7 @@ https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b20
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YABAN TV" tvg-name="YABAN TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/319WZ5f/yaban.png",YABAN TV
-https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8 
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vizyon Müzik" tvg-name="Vizyon Müzik" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-MUZ-e1614630511562.png",Vizyon Müzik
+https://vizyontv.yayin.com.tr/vizyon-muzik/vizyon-muzik/chunklist_w1377171363.m3u8
