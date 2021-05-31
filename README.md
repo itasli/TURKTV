@@ -1,7 +1,7 @@
-# TURKTV
+# TURKTV 
 Collection of publicly available IPTV channels from Turkey. 
 
-Internet Protocol television (IPTV) is the delivery of television content over Internet Protocol (IP) networks. 
+Internet Protocol television (IPTV) is the delivery of television content over Internet Protocol (IP) networks.
 
 ## Usage
 
@@ -9,4 +9,8 @@ To watch IPTV just paste this link <https://itasli.github.io/TURKTV/index.m3u> t
 
 ## Roku
 
-Roku channel is released you can download it on your device using this link : <https://my.roku.com/account/add/CGGZLJ> !
+Roku channel is available you can download it on your device using this link : <https://my.roku.com/account/add/CGGZLJ> !
+
+## Contact
+
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FTURKTVTR)](https://t.me/TURKTVTR)
