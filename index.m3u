@@ -107,7 +107,7 @@ http://buyutecaltinda.dyndns.tv:54981/stream/AHABER_HD.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png",NTV 
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Mks8wFS/trthaber.jpg",TRT Haber
 https://tv-trthaber.live.trt.com.tr/master_720.m3u8
@@ -150,7 +150,8 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8
 
 #EXTINF:-1 tvg-id="DOST TV" tvg-name="DOST TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/LrDzHxW/dost.png",DOST TV
-http://137.74.150.14:8080/permabil/DOSTtv/index.m3u8
+#http://137.74.150.14:8080/permabil/DOSTtv/index.m3u8
+http://dost.stream.emsal.im/tv/live.m3u8
 
 #EXTINF:-1 tvg-id="Tivibu Spor" tvg-name="Tivibu Spor" tvg-language="Turkish" logo="https://i.ibb.co/r7C1DMG/tivibuspor.png",Tivibu Spor
 http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
@@ -168,13 +169,13 @@ http://iptvmasterlink.dyndns.org:5566/Entry/trtspor2_yeni.m3u8
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="Sports TV" tvg-name="Sports TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png",TLC
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+https://mn-nl.mncdn.com/blutv_tlc/tlc_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png",DMAX
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
+https://mn-nl.mncdn.com/blutv_dmax/dmax_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="Vizyon Belgesel" tvg-name="Vizyon Belgesel" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-BELG-e1614379400781.png",Vizyon Belgesel
 https://vizyontv.yayin.com.tr/vizyon-belgesel/vizyon-belgesel/playlist.m3u8
