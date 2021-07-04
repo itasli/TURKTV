@@ -4,7 +4,7 @@
 https://i.ibb.co/YZG9MRS/turktv.png
 
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png",TRT 1
-https://tv-trt1.live.trt.com.tr/master_720.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
 http://149.255.152.66:8080/atvturk/index.m3u8
@@ -181,7 +181,8 @@ https://mn-nl.mncdn.com/blutv_dmax/dmax_sd.smil/chunklist_b2064000.m3u8
 https://vizyontv.yayin.com.tr/vizyon-belgesel/vizyon-belgesel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyXRfXw/trtbelgesel.png",TRT Belgesel 
-https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
+#https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TGRT Belgesel" tvg-name="TGRT Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
