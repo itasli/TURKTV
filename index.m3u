@@ -4,7 +4,8 @@
 https://i.ibb.co/YZG9MRS/turktv.png
 
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
 http://149.255.152.66:8080/atvturk/index.m3u8
