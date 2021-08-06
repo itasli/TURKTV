@@ -69,9 +69,6 @@ http://iptvmasterlink.dyndns.org:8080/Entry/a2hd_yeni/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png",Show Max
 http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
 
-#EXTINF:-1 tvg-id="Vizyon TV" tvg-name="Vizyon TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png",Vizyon TV
-http://cdn-vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Vizyon Yeşilçam Nostalji" tvg-name="Vizyon Yeşilçam Nostalji" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-YES-e1614468862346.png",Vizyon Yeşilçam Nostalji
 https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/playlist.m3u8
 
