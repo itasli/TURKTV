@@ -9,7 +9,7 @@ https://i.ibb.co/YZG9MRS/turktv.png
 https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
-https://live-01.tvjetapp.com/ch-14/live.m3u8
+http://79.124.14.198:8088/play/a0ik
 
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-name="ATV Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/k4yHhn7/atvavrupa.png",ATV Avrupa
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
@@ -47,7 +47,7 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 http://79.124.14.198:8088/play/a070
 
 #EXTINF:-1 tvg-id="TV8 INT" tvg-name="TV8 INT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyjrbR7/tv8int.png",TV8 INT
-https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/chunklist_b2096000.m3u8
+https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png",TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8
@@ -163,7 +163,7 @@ https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
 #EXTINF:-1 tvg-id="Tele 1" tvg-name="Tele 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Yq2m25/tele1.png",Tele 1
-https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000.m3u8
+https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-id="Diyanet TV" tvg-name="Diyanet TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4VCTd55/logo.png",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/7270qqz0ERRah_0.m3u8
@@ -197,10 +197,10 @@ https://tv-trt3.live.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png",TLC
-https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000.m3u8
+https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png",DMAX
-https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000.m3u8
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/60995084866ac3099473a292.png",INVESTIGATION DISCOVERY
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
