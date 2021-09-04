@@ -5,6 +5,7 @@ https://i.ibb.co/YZG9MRS/turktv.png
 
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png",TRT 1
 #https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#https://mn-nl.mncdn.com/blutv_trt1_dvr/live.m3u8
 https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
@@ -14,15 +15,12 @@ https://live-01.tvjetapp.com/ch-14/live.m3u8
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
 
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png",Show TV
-#https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-id="Show Türk" tvg-name="Show Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xJZR1jT/showturk.png",Show Türk
 https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
 
 #EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png",Star TV
-#https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#https://mn-nl.mncdn.com/blutv_star/star_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_startv_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-id="EuroStar" tvg-name="EuroStar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/r4SLvnN/eurostar.png",EuroStar
@@ -30,8 +28,6 @@ https://mn-nl.mncdn.com/blutv_startv_dvr/live_720p2000000/index.m3u8
 https://mn-nl.mncdn.com/blutv_eurostar/eurostar_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2ttHzC4/kanald.png",Kanal D
-#https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
-#https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-id="Euro D" tvg-name="Euro D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/C9YcngF/eurod.png",Euro D
@@ -39,7 +35,6 @@ https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
 https://mn-nl.mncdn.com/blutv_eurod/eurod_sd.smil/chunklist_b1346000.m3u8
 
 #EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png",FOX
-#https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
 https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png",Kanal 7
@@ -49,14 +44,13 @@ https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png",TV8
-#https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
-http://149.255.152.66:8080/tv8hd/tracks-v1a1/mono.m3u8
+http://79.124.14.198:8088/play/a070
 
 #EXTINF:-1 tvg-id="TV8 INT" tvg-name="TV8 INT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyjrbR7/tv8int.png",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/chunklist_b2096000.m3u8
 
 #EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png",TV8.5
-https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png",Teve2
 https://mn-nl.mncdn.com/blutv_teve2/teve2_sd.smil/chunklist_b2064000.m3u8
@@ -98,6 +92,18 @@ https://vizyontv.yayin.com.tr/bizimkiler-tv/bizimkiler-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Vizyon Avrupa Yakasi TV" tvg-name="Vizyon Avrupa Yakasi TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png",Vizyon Avrupa Yakasi TV
 https://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/60c1c6af866ac32b283fcb03.png",BLUTV NOSTALJI
+https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/6094019f866ac3215c001c1d.png",BLUTV OZEL YAPIM
+https://mn-nl.mncdn.com/blutv_ozelyapim/ozelyapim_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/5df3cdaf866ac30eac56958e.png",BLUTV KOMEDI
+https://mn-nl.mncdn.com/blutv_po/po_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/5df3cd52866ac30eac569581.png",BLUTV AKSIYON
+https://mn-nl.mncdn.com/blutv_playout/playout_hd.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Afyon Türk TV" tvg-name="Afyon Türk TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hXrJgs9/afyonturk.png",Afyon Türk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 
@@ -126,19 +132,19 @@ http://buyutecaltinda.dyndns.tv:54981/stream/AHABER_HD.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png",NTV 
-https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_ntv_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Mks8wFS/trthaber.jpg",TRT Haber
 https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7SXmSz4/tgrthaber.png",TGRT Haber
-https://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8
+https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HABERGLOBAL" tvg-name="HABERGLOBAL" tvg-language="Turkish" tvg-logo="https://i.ibb.co/mTTgWjy/haberglobal.png",HABERGLOBAL
-https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Hd6cPGm/haberturk.png",HABERTURK
-https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_haberturk_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg HT" tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DVRzygX/bloomberg.jpg",Bloomberg HT
 http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
@@ -151,13 +157,13 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 https://2122248074.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Halk TV" tvg-name="Halk TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZSBB9GG/halktv.png",Halk TV
-https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="Akit TV" tvg-name=""Akit TV tvg-language="Turkish" tvg-logo="https://i.ibb.co/kxRndv8/logo.png",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
 #EXTINF:-1 tvg-id="Tele 1" tvg-name="Tele 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Yq2m25/tele1.png",Tele 1
-http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
+https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000.m3u8
 
 #EXTINF:-1 tvg-id="Diyanet TV" tvg-name="Diyanet TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4VCTd55/logo.png",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/7270qqz0ERRah_0.m3u8
@@ -179,7 +185,7 @@ http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/mani
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png",TRT Spor
-https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
+https://mn-nl.mncdn.com/blutv_trtspor_dvr/live_720p2000000.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor 2" tvg-name="TRT Spor 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YZJqg86/TRT-Spor-2-kurumsal-logo.png",TRT Spor 2
 http://iptvmasterlink.dyndns.org:5566/Entry/trtspor2_yeni.m3u8
@@ -188,13 +194,16 @@ http://iptvmasterlink.dyndns.org:5566/Entry/trtspor2_yeni.m3u8
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="Sports TV" tvg-name="Sports TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png",Sports TV
-https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png",TLC
-https://mn-nl.mncdn.com/blutv_tlc/tlc_sd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000.m3u8
 
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png",DMAX
-https://mn-nl.mncdn.com/blutv_dmax/dmax_sd.smil/chunklist_b2064000.m3u8
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/60995084866ac3099473a292.png",INVESTIGATION DISCOVERY
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyXRfXw/trtbelgesel.png",TRT Belgesel 
 #https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
@@ -202,6 +211,9 @@ https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TGRT Belgesel" tvg-name="TGRT Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/6111016b866ac30acc27b1ff.png",BLUTV BELGESEL
+https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
 
 #EXTINF:-1 tvg-id="YABAN TV" tvg-name="YABAN TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/319WZ5f/yaban.png",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
