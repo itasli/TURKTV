@@ -18,7 +18,7 @@ http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
 https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-id="Show Türk" tvg-name="Show Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xJZR1jT/showturk.png",Show Türk
-https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
+https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png",Star TV
 https://mn-nl.mncdn.com/blutv_startv_dvr/live_720p2000000/index.m3u8
@@ -32,7 +32,7 @@ https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-id="Euro D" tvg-name="Euro D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/C9YcngF/eurod.png",Euro D
 #https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-https://mn-nl.mncdn.com/blutv_eurod/eurod_sd.smil/chunklist_b1346000.m3u8
+https://mn-nl.mncdn.com/blutv_eurod2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png",FOX
 https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000/index.m3u8
