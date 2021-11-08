@@ -8,10 +8,11 @@ https://i.ibb.co/YZG9MRS/turktv.png
 https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
-http://79.124.14.198:8088/play/a0ik
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-name="ATV Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/k4yHhn7/atvavrupa.png",ATV Avrupa
-http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://antalya.tvizlehd.com/live/atvavrupa.m3u8
 
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png",Show TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -50,12 +51,11 @@ https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png",TV8
-#http://79.124.14.198:8088/play/a070
 https://missing
 
 #EXTINF:-1 tvg-id="TV8 INT" tvg-name="TV8 INT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyjrbR7/tv8int.png",TV8 INT
-#https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/chunklist.m3u8
-https://missing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png",TV8.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -73,10 +73,11 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png",A2
-http://missing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://antalya.tvizlehd.com/live/a2tv.m3u8
 
 #EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png",Show Max
-https://missing
+https://aeonian-wage.000webhostapp.com/kanal/showmax.php
 
 #EXTINF:-1 tvg-id="Vizyon Yeşilçam Nostalji" tvg-name="Vizyon Yeşilçam Nostalji" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-YES-e1614468862346.png",Vizyon Yeşilçam Nostalji
 https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/playlist.m3u8
@@ -121,10 +122,12 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 http://missing
 
 #EXTINF:-1 tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3RVSssb/minikacocuk.png",Minika Çocuk
-http://missing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://antalya.tvizlehd.com/live/minikacocuk.m3u8
 
 #EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bWCndfr/ahbr.png",A Haber
-http://missing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://antalya.tvizlehd.com/live/ahaber.m3u8
 
 #EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
@@ -188,18 +191,20 @@ http://dost.stream.emsal.im/tv/live.m3u8
 http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SJ3BGgP/aspor.png",a Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://antalya.tvizlehd.com/live/aspor.m3u8
 #https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
-http://missing
 
 #EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png",TRT Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/blutv_trtspor_dvr/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor 2" tvg-name="TRT Spor 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YZJqg86/TRT-Spor-2-kurumsal-logo.png",TRT Spor 2
-http://missing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://mn-nl.mncdn.com/blutv_trtspor2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="TRT 3 Spor" tvg-name="TRT 3 Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/CH8rxzb/trt3spor.png",TRT 3 Spor
-http://missing
+#EXTINF:-1 tvg-id="TRT Spor Yildiz" tvg-name="TRT Spor Yildiz" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FBzsCSY/trtsporyildiz.jpg",TRT Spor Yildiz
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="Sports TV" tvg-name="Sports TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png",Sports TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
