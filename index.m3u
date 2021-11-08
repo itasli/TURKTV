@@ -51,7 +51,7 @@ https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png",TV8
-https://missing
+http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8 INT" tvg-name="TV8 INT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyjrbR7/tv8int.png",TV8 INT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
