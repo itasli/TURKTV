@@ -107,7 +107,7 @@ https://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/playlist.m3u8
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine5 TV" tvg-name="Cine5 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HFLtSG8/cine5.png",Cine5 TV
-https://host.onlineradyotv.net:1936/cine5/cine5/chunklist_w1555985136.m3u8
+https://host.onlineradyotv.net:1936/cine5/cine5/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RznYK89/cn.png",Cartoon Network
 http://missing
