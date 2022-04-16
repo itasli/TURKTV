@@ -33,7 +33,7 @@ https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2ttHzC4/kanald.png",Kanal D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #https://mn-nl.mncdn.com/blutv_kanald2/live_720p2000000kbps/index.m3u8
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1000/playlist.m3u8
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Euro D" tvg-name="Euro D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/C9YcngF/eurod.png",Euro D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
