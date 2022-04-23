@@ -79,30 +79,6 @@ http://antalya.tvizlehd.com/live/a2tv.m3u8
 #EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png",Show Max
 https://aeonian-wage.000webhostapp.com/kanal/showmax.php
 
-#EXTINF:-1 tvg-id="Vizyon Yeşilçam Nostalji" tvg-name="Vizyon Yeşilçam Nostalji" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-YES-e1614468862346.png",Vizyon Yeşilçam Nostalji
-https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vizyon Yeşilçam Komedi" tvg-name="Vizyon Yeşilçam Komedi" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-YES-e1614468862346.png",Vizyon Yeşilçam Komedi
-https://vizyontv.yayin.com.tr/yesilcam-komedi-tv/yesilcam-komedi-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vizyon Türk Sinema" tvg-name="Vizyon Türk Sinema" tvg-language="Turkish" tvg-logo="https://www.vizyon.ch/wp-content/uploads/2021/02/LL-TURK.png",Vizyon Türk Sinema
-https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vizyon Recep Ivedik TV" tvg-name="Vizyon Recep Ivedik TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png",Vizyon Recep Ivedik TV
-https://vizyontv.yayin.com.tr/recep-ivedik-tv/recep-ivedik-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vizyon Kemal Sunal TV" tvg-name="Vizyon Kemal Sunal TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png",Vizyon Kemal Sunal TV
-https://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vizyon Sener Sen TV" tvg-name="Vizyon Sener Sen TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png",Vizyon Sener Sen TV
-https://vizyontv.yayin.com.tr/senersen-tv/senersen-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vizyon Bizimkiler TV" tvg-name="Vizyon Bizimkiler TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png",Vizyon Bizimkiler TV
-https://vizyontv.yayin.com.tr/bizimkiler-tv/bizimkiler-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vizyon Avrupa Yakasi TV" tvg-name="Vizyon Avrupa Yakasi TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png",Vizyon Avrupa Yakasi TV
-https://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Afyon Türk TV" tvg-name="Afyon Türk TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hXrJgs9/afyonturk.png",Afyon Türk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 
