@@ -8,7 +8,7 @@ https://i.ibb.co/YZG9MRS/turktv.png
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-name="ATV Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/k4yHhn7/atvavrupa.png",ATV Avrupa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -16,33 +16,31 @@ http://antalya.tvizlehd.com/live/atvavrupa.m3u8
 
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png",Show TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_showtv2/live_720p2000000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 
 #EXTINF:-1 tvg-id="Show Türk" tvg-name="Show Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xJZR1jT/showturk.png",Show Türk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 
 #EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png",Star TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_startv2/live_720p2000000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 
 #EXTINF:-1 tvg-id="EuroStar" tvg-name="EuroStar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/r4SLvnN/eurostar.png",EuroStar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2ttHzC4/kanald.png",Kanal D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#https://mn-nl.mncdn.com/blutv_kanald2/live_720p2000000kbps/index.m3u8
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 
 #EXTINF:-1 tvg-id="Euro D" tvg-name="Euro D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/C9YcngF/eurod.png",Euro D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#https://mn-nl.mncdn.com/blutv_eurod2/live_720p2000000kbps/index.m3u8
-https://kdlive.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
 
 #EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png",FOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_foxtv2/live_720p2000000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 
 #EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
@@ -55,11 +53,11 @@ http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8 INT" tvg-name="TV8 INT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyjrbR7/tv8int.png",TV8 INT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 
 #EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png",TV8.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 
 #EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png",Teve2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -70,7 +68,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png",Beyaz TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 
 #EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png",A2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -85,14 +83,8 @@ https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine5 TV" tvg-name="Cine5 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HFLtSG8/cine5.png",Cine5 TV
 https://host.onlineradyotv.net:8081/cine5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RznYK89/cn.png",Cartoon Network
-http://missing
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/8KTN00Q/dc.png",Disney Channel
-http://missing
-
 #EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png",TRT Çocuk
-https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQM08hH/minikago.png",Minika Go
 http://missing
@@ -168,19 +160,14 @@ http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/mani
 
 #EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SJ3BGgP/aspor.png",a Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://antalya.tvizlehd.com/live/aspor.m3u8
-#https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png",TRT Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_trtspor_dvr/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-id="TRT Spor 2" tvg-name="TRT Spor 2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YZJqg86/TRT-Spor-2-kurumsal-logo.png",TRT Spor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_trtspor2/live_720p2000000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 
 #EXTINF:-1 tvg-id="TRT Spor Yildiz" tvg-name="TRT Spor Yildiz" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FBzsCSY/trtsporyildiz.jpg",TRT Spor Yildiz
-https://mn-nl.mncdn.com/blutv_trtsporyildiz/live_720p2000000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
 
 #EXTINF:-1 tvg-id="Sports TV" tvg-name="Sports TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png",Sports TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
