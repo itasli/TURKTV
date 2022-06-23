@@ -1,5 +1,5 @@
 # TURKTV 
-[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FTURKTVTR)](https://t.me/TURKTVTR)
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FTURKTVNET)](t.me/TURKTVNET)
 
 Collection of publicly available IPTV channels from Turkey. 
 
