@@ -8,7 +8,7 @@ Internet Protocol television (IPTV) is the delivery of television content over I
 ## Usage
 
 ### Kodi (recommended)
-I'm maintaining Turkish channels on [Catch-up TV & More](https://catch-up-tv-and-more.github.io/). You can download it on your device and start watching. A forked version wich contains only Turkish channels can be found [here](https://itasli.github.io/TURKTV/kodi/plugin.video.turktv.zip)
+I'm maintaining Turkish channels on [Catch-up TV & More](https://catch-up-tv-and-more.github.io/). You can download it on your device and start watching.
 
 ### M3U PLAYLIST
 To watch IPTV just paste this link <https://itasli.github.io/TURKTV/index.m3u> to any player with M3U-playlists support or download it.
